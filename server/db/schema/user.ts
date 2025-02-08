@@ -1,4 +1,4 @@
-import { pgTable, serial, text, timestamp, integer } from "drizzle-orm/pg-core";
+import { pgTable, text, timestamp, integer, uuid } from "drizzle-orm/pg-core";
 import {
   createInsertSchema,
   createSelectSchema,
@@ -7,7 +7,7 @@ import {
 import { z } from "zod";
 
 export const usersTable = pgTable("users", {
-  uid: serial("uid").primaryKey(),
+  uid: uuid("uid").primaryKey().defaultRandom(),
   email: text("email").notNull().unique(),
   name: text("name").notNull(),
   cryptoExp: integer("crypto_exp").notNull(), // Years of experience

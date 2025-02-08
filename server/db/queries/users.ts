@@ -8,7 +8,7 @@ export async function getAllUsers() {
 }
 
 // Get user by uid
-export async function getUserByUid(uid: number) {
+export async function getUserByUid(uid: string) {
   return await db.select().from(usersTable).where(eq(usersTable.uid, uid));
 }
 
@@ -23,7 +23,7 @@ export async function createUser(user: UserInsertSchema) {
 }
 
 // Update user
-export async function updateUser(uid: number, user: UserUpdateSchema) {
+export async function updateUser(uid: string, user: UserUpdateSchema) {
   return await db
     .update(usersTable)
     .set(user)
@@ -32,7 +32,7 @@ export async function updateUser(uid: number, user: UserUpdateSchema) {
 }
 
 // Delete user
-export async function deleteUser(uid: number) {
+export async function deleteUser(uid: string) {
   return await db.delete(usersTable).where(eq(usersTable.uid, uid)).returning();
 }
 

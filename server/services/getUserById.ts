@@ -2,13 +2,13 @@ import { UserSelectSchema } from "../db/schema/user";
 import { getUserByUid as getUserByUidQuery } from "../db/queries/users";
 
 export const getUserById = async (
-  id: number
+  id: string
 ): Promise<{
   data: UserSelectSchema | null;
   message: string;
   error: any;
 }> => {
-  if (!id || isNaN(id)) {
+  if (!id) {
     return {
       data: null,
       message: "User ID is required",
@@ -17,7 +17,7 @@ export const getUserById = async (
   }
 
   try {
-    const [user] = await getUserByUidQuery(id);
+    const [user] = await getUserByUidQuery(id.toString());
     return {
       data: user,
       message: "User fetched successfully",

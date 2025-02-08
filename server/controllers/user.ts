@@ -31,7 +31,7 @@ export const updateUserController: RequestHandler = async (req, res) => {
 };
 
 export const getUserByIdController: RequestHandler = async (req, res) => {
-  const id = parseInt(req.params.id);
+  const id = req.params.id;
 
   await ParameterLessControllerHelper({
     res,

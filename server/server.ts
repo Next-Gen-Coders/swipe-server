@@ -3,6 +3,7 @@ import cors from "cors";
 import dotenv from "dotenv";
 import routes from "./routes/service";
 import userRoutes from "./routes/user";
+import "./config/coinbase";
 
 dotenv.config();
 
@@ -16,7 +17,6 @@ app.use(express.urlencoded({ extended: true }));
 
 app.use("/", routes);
 app.use("/user", userRoutes);
-
 
 // Basic route
 app.get("/", (req: Request, res: Response) => {
