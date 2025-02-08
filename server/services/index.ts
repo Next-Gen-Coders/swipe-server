@@ -1,3 +1,6 @@
-import getToken from "./getTokens";
+import createUser from "./createUser";
+import updateUser from "./updateUser";
+import getUserById from "./getUserById";
+import getUserByEmail from "./getUserByEmail";
 
-export { getToken };
+export { createUser, updateUser, getUserById, getUserByEmail };

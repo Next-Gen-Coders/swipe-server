@@ -1,12 +1,12 @@
 import {
-  tokenInsertSchema,
-  tokenSelectSchema,
-  tokenUpdateSchema,
-  TokenInsertSchema,
-  TokenSelectSchema,
-  TokenUpdateSchema,
-} from "./schema";
+  userInsertSchema,
+  userSelectSchema,
+  userUpdateSchema,
+  UserInsertSchema,
+  UserSelectSchema,
+  UserUpdateSchema,
+} from "./schema/user";
 
-export { tokenInsertSchema, tokenSelectSchema, tokenUpdateSchema };
+export { userInsertSchema, userSelectSchema, userUpdateSchema };
 
-export type { TokenInsertSchema, TokenSelectSchema, TokenUpdateSchema };
+export type { UserInsertSchema, UserSelectSchema, UserUpdateSchema };
