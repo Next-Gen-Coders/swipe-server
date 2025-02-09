@@ -1,7 +1,7 @@
-import { readFile } from "fs/promises";
-import path from "path";
 import { getUserByEmail } from "../db/queries/users";
 import OpenAI from "openai";
+import { db } from "../db"; // Make sure this path is correct
+import { memeCoinsTable } from "../db/schema/memeCoin"; // Make sure this path is correct
 
 interface MemeCoinsData {
   coins: {
@@ -209,13 +209,36 @@ const getSwipeCards = async (email: string) => {
       };
     }
 
-    // 2. Read and parse meme coins data
-    const coinsFilePath = path.join(process.cwd(), "data", "meme_coins.json");
-    const coinsData = await readFile(coinsFilePath, "utf-8");
-    const { coins } = JSON.parse(coinsData) as MemeCoinsData;
+    // 2. Get meme coins data from database
+    const coins = await db.select().from(memeCoinsTable).execute();
+
+    // Transform database results to match MemeCoinsData interface
+    const transformedCoins = coins.map((coin) => ({
+      id: coin.id,
+      symbol: coin.symbol,
+      name: coin.name,
+      base_contract: coin.base_contract,
+      current_price: Number(coin.current_price), // Convert from numeric to number
+      market_cap: Number(coin.market_cap),
+      total_volume: Number(coin.total_volume),
+      price_change_24h: coin.price_change_24h
+        ? Number(coin.price_change_24h)
+        : 0,
+      description: coin.description || undefined,
+      image: coin.image_thumb
+        ? {
+            thumb: coin.image_thumb,
+            small: coin.image_small || coin.image_thumb,
+            large: coin.image_large || coin.image_thumb,
+          }
+        : null,
+    }));
 
     // 3. Get filtered coins based on risk tolerance
-    const filteredCoins = getFilteredCoins(coins, user.riskTolerance);
+    const filteredCoins = getFilteredCoins(
+      transformedCoins,
+      user.riskTolerance
+    );
 
     // 4. Map only required fields for GPT analysis
     const preparedCoins = filteredCoins.map((coin) => ({
@@ -240,7 +263,7 @@ const getSwipeCards = async (email: string) => {
     // Enrich recommendations with additional data
     const enrichedRecommendations = enrichRecommendations(
       gptRecommendations,
-      coins
+      transformedCoins
     );
 
     return {
