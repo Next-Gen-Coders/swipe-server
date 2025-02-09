@@ -1,12 +1,14 @@
 import {
-  tokenInsertSchema,
-  tokenSelectSchema,
-  tokenUpdateSchema,
-  TokenInsertSchema,
-  TokenSelectSchema,
-  TokenUpdateSchema,
-} from "./schema";
+  userInsertSchema,
+  userSelectSchema,
+  userUpdateSchema,
+  UserInsertSchema,
+  UserSelectSchema,
+  UserUpdateSchema,
+} from "./schema/user";
 
-export { tokenInsertSchema, tokenSelectSchema, tokenUpdateSchema };
+import { tradeSchema } from "./zod/trade";
 
-export type { TokenInsertSchema, TokenSelectSchema, TokenUpdateSchema };
+export { userInsertSchema, userSelectSchema, userUpdateSchema, tradeSchema };
+
+export type { UserInsertSchema, UserSelectSchema, UserUpdateSchema };
