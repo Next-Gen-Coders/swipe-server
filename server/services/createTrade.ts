@@ -4,8 +4,12 @@ import { getUserByEmail } from "../db/queries/users";
 import { createTransaction } from "../db/queries/transactions";
 import { getWalletByUserId } from "../db/queries/wallets";
 import { UserSelectSchema } from "../db/schema/user";
-import { SettlementType, TransactionStatus } from "../utils/enums";
-
+import {
+  SettlementType,
+  TransactionStatus,
+  TransactionType,
+} from "../utils/enums";
+import { executeTrade } from "./exeTrade";
 export const createTrade = async (
   trade: TradeSchema
 ): Promise<{
@@ -25,21 +29,37 @@ export const createTrade = async (
 
     const wallet = await getWalletByUserId(user.uid);
 
-    // const executeTrade = await trade
+    if (!wallet) {
+      return {
+        data: null,
+        message: "Wallet not found",
+        error: "Wallet not found",
+      };
+    }
 
-    // if (!executeTrade) {
-    //   return {
-    //     data: null,
-    //     message: "Trade executed",
-    //     error: null,
-    //   };
-    // }
+    const { txHash, tokenAmount } = await executeTrade({
+      type: TransactionType.BUY,
+      amount: trade.tradePayload.purchasedAmountInUSDC,
+      tokenAddress: trade.tradePayload.base_contract!,
+    });
+
+    if (!txHash || !tokenAmount) {
+      return {
+        data: null,
+        message: "Error executing trade",
+        error: "Error executing trade",
+      };
+    }
 
     const transaction: TransactionInsertSchema = await createTransaction({
       userId: user.uid,
       walletId: wallet.id,
-      amountInUSDC: trade.tradePayload.amountInUSDC.toString(),
-      txHash: "excuteTrade.tsxHash",
+      purchasedAmountInUSDC:
+        trade.tradePayload.purchasedAmountInUSDC.toString(),
+      settledAmountInUSDC: null,
+      txHash: txHash,
+      tokenAddress: trade.tradePayload.base_contract!,
+      tokenAmount: tokenAmount.toString(),
       tokenIdentifier: trade.tradePayload.id,
       entryPoint: trade.tradePayload.entry_price.toString(),
       stopLoss: trade.tradePayload.stop_loss.toString(),

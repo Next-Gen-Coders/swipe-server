@@ -8,6 +8,11 @@ export enum TransactionStatus {
   SETTLED = "SETTLED",
 }
 
+export enum TransactionType {
+  BUY = "BUY",
+  SELL = "SELL",
+}
+
 // Create enum for settlement type
 export enum SettlementType {
   USER = "USER",

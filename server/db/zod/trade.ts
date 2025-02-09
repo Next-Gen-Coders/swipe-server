@@ -14,7 +14,7 @@ export const tradeSchema = z.object({
     base_contract: z.string().nullable(),
     current_price: z.number(),
     price_change_24h: z.number(),
-    amountInUSDC: z.number(),
+    purchasedAmountInUSDC: z.number(),
     image: z
       .object({
         thumb: z.string(),
