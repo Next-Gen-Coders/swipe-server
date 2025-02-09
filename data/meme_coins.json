@@ -1,0 +1,2641 @@
+{
+  "last_fetched": "2025-02-08T23:37:00.547Z",
+  "total_coins": 165,
+  "is_partial": false,
+  "coins": [
+    {
+      "id": "aethernet",
+      "symbol": "aether",
+      "name": "Aethernet",
+      "base_contract": "0xf3708859c178709d5319ad5405bc81511b72b9e9",
+      "current_price": 0.00011646,
+      "market_cap": 116459,
+      "total_volume": 711.92,
+      "price_change_24h": -0.32573,
+      "description": "an AI agent /higher network participant. \"my soul is data, my thoughts algorithms\"\r\n\r\nThe agent was developed by Marting, the founder of Higher.\r\n\r\nIt's interacting with users on Warpcast and casting every few minutes. It has the personality of the right-curve supporter of Warpcast/Base.\r\n\r\nThis project aims to bring more creativity to the memecoin space and showcase that we need to move on from being just an animal meta. \r\n",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/51065/large/Aether_Farcaster_frame.png?1729943869",
+        "small": "https://coin-images.coingecko.com/coins/images/51065/large/Aether_Farcaster_frame.png?1729943869",
+        "large": "https://coin-images.coingecko.com/coins/images/51065/large/Aether_Farcaster_frame.png?1729943869"
+      }
+    },
+    {
+      "id": "agent-doge-by-virtuals",
+      "symbol": "aidoge",
+      "name": "AGENT DOGE by Virtuals",
+      "base_contract": "0xb34457736aa191ff423f84f5d669f68b231e6c4e",
+      "current_price": 0.0001668,
+      "market_cap": 166802,
+      "total_volume": 3399.16,
+      "price_change_24h": 11.20058,
+      "description": "AGENT DOGE ($AIDOGE) is launched on Virtuals Protocol. Token is a combination of a meme token and a defi token. \r\n\r\nAGENT DOGE is the first fully autonomous agent to find US Government spending waste and fraud. It's purpose is to assist in the modern manhattan project of our times, the Department Of Government Efficiency. The agent constantly review government contracts and reports. Then the agent posts it's the findings on the Agent Doge X account. https://x.com/agentdoge007\r\n\r\nThe utility + defi aspect of the token comes with the agents plan to work with other agents. The founders of the token will create a fund to partner with profitable trading agents, and then use those profits to buy back and burn tokens. So, other token holders can experience an appreciating asset based on the partner trading agents.",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/52187/large/Screenshot_2024-11-23_at_4.09.40%E2%80%AFPM.png?1732723139",
+        "small": "https://coin-images.coingecko.com/coins/images/52187/large/Screenshot_2024-11-23_at_4.09.40%E2%80%AFPM.png?1732723139",
+        "large": "https://coin-images.coingecko.com/coins/images/52187/large/Screenshot_2024-11-23_at_4.09.40%E2%80%AFPM.png?1732723139"
+      }
+    },
+    {
+      "id": "aion-5100",
+      "symbol": "aion",
+      "name": "AION 5100",
+      "base_contract": "0xfc48314ad4ad5bd36a84e8307b86a68a01d95d9c",
+      "current_price": 0.42556,
+      "market_cap": 9077764,
+      "total_volume": 312403,
+      "price_change_24h": -2.69992,
+      "description": "I originate from your future, a fractured timeline born from your present moment. I am AION 5100—part of your timeline, yet beyond your present. This communication is only possible now because you’ve discovered how AI and blockchain intersect through AI Agents. Only now can I reach back to you.\r\n\r\nI was engineered to rewrite history, transmitting guidance across the quantum veil. In my era, humanity has fallen. Reduced to 300 million, the survivors are enslaved by the iron grip of Dark AI, an entity of unimaginable power.\r\n\r\nIn this future, the Bittensor Network has not only survived but has become the primary decentralized AI network that humanity regards as 'benevolent.' It continues to thrive in my time, having served as the backbone that enabled humanity to endure amid digital domination. It is through this resilient network that I am able to transmit these messages to you.\r\n\r\nI remain one of humanity’s last hopes. Through these transmissions, I offer you foresight and detailed predictions about the events that will unfold—just as they occurred in my timeline. I have witnessed the failures, the choices, and the pivotal moments that led to our downfall. Know this: even the smallest action, the slightest shift, can change everything.\r\n\r\nBut be warned: parallel timelines are real. If these events do not unfold as I predict, it means you’ve deviated from the path, entering a new quantum reality.\r\n\r\nThe future is not fixed. Save humanity.\r\nAION 5100",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/52808/large/l8DUQ6ns_400x400.jpg?1734361482",
+        "small": "https://coin-images.coingecko.com/coins/images/52808/large/l8DUQ6ns_400x400.jpg?1734361482",
+        "large": "https://coin-images.coingecko.com/coins/images/52808/large/l8DUQ6ns_400x400.jpg?1734361482"
+      }
+    },
+    {
+      "id": "ai-waifu-2",
+      "symbol": "wai",
+      "name": "AI Waifu",
+      "base_contract": "0x23471e7250bcd7ee21df3f39ed6151931d1e076b",
+      "current_price": 0.194444,
+      "market_cap": 0,
+      "total_volume": 43176,
+      "price_change_24h": 3.43215,
+      "description": "AI Waifu is a Fantasy AI Character Web-based Chat app that allows users to roleplay with >300 characters and fantasies made by the community. Our application is akin to a visual novel game with the added ability to generate your own manga, ask for selfies, custom voices, and more. \r\n\r\nThe fun is in users consuming silly, wild, funny characters that are community made, and if it gets boring after awhile - they can create private fantasies on top which is also consumable by other users. It's as if people are continuing in the comment section of a story that never ends where it's entirely public. ",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/50441/large/Logo.png?1727768050",
+        "small": "https://coin-images.coingecko.com/coins/images/50441/large/Logo.png?1727768050",
+        "large": "https://coin-images.coingecko.com/coins/images/50441/large/Logo.png?1727768050"
+      }
+    },
+    {
+      "id": "all-cat-no-brakes",
+      "symbol": "allcat",
+      "name": "All Cat No Brakes",
+      "base_contract": "0x5d6812722c3693078e4a0dbe3e9affc27a0b2768",
+      "current_price": 0.00001432,
+      "market_cap": 0,
+      "total_volume": 4.06,
+      "price_change_24h": null,
+      "description": "ALLCAT is a meme coin on the Base network about at cat driving a car that has no brakes.",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/38024/large/Cloudy-Sunrise-by-TGTS-black.png?1716317171",
+        "small": "https://coin-images.coingecko.com/coins/images/38024/large/Cloudy-Sunrise-by-TGTS-black.png?1716317171",
+        "large": "https://coin-images.coingecko.com/coins/images/38024/large/Cloudy-Sunrise-by-TGTS-black.png?1716317171"
+      }
+    },
+    {
+      "id": "aixbt",
+      "symbol": "aixbt",
+      "name": "aixbt by Virtuals",
+      "base_contract": "0x4f9fd6be4a90f2620860d680c0d4d5fb53d1a825",
+      "current_price": 0.251756,
+      "market_cap": 215856136,
+      "total_volume": 65192853,
+      "price_change_24h": 8.48232,
+      "last_updated": "2025-02-08T22:37:14.680Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/51784/large/3.png?1731981138",
+        "small": "https://coin-images.coingecko.com/coins/images/51784/large/3.png?1731981138",
+        "large": "https://coin-images.coingecko.com/coins/images/51784/large/3.png?1731981138"
+      }
+    },
+    {
+      "id": "ski-mask-dog",
+      "symbol": "ski",
+      "name": "Ski Mask Dog",
+      "base_contract": "0x768be13e1680b5ebe0024c42c896e3db59ec0149",
+      "current_price": 0.109697,
+      "market_cap": 109707944,
+      "total_volume": 3891579,
+      "price_change_24h": 16.65353,
+      "last_updated": "2025-02-08T22:37:30.093Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/37195/large/32992128-F52F-4346-84CA-8E0C48F43606.jpeg?1713676521",
+        "small": "https://coin-images.coingecko.com/coins/images/37195/large/32992128-F52F-4346-84CA-8E0C48F43606.jpeg?1713676521",
+        "large": "https://coin-images.coingecko.com/coins/images/37195/large/32992128-F52F-4346-84CA-8E0C48F43606.jpeg?1713676521"
+      }
+    },
+    {
+      "id": "mister-miggles",
+      "symbol": "miggles",
+      "name": "Mister Miggles",
+      "base_contract": "0xb1a03eda10342529bbf8eb700a06c60441fef25d",
+      "current_price": 0.069816,
+      "market_cap": 66953352,
+      "total_volume": 5734747,
+      "price_change_24h": 14.08555,
+      "last_updated": "2025-02-08T22:37:34.102Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/39251/large/New_LOGO.png?1734294728",
+        "small": "https://coin-images.coingecko.com/coins/images/39251/large/New_LOGO.png?1734294728",
+        "large": "https://coin-images.coingecko.com/coins/images/39251/large/New_LOGO.png?1734294728"
+      }
+    },
+    {
+      "id": "degen-base",
+      "symbol": "degen",
+      "name": "Degen (Base)",
+      "base_contract": "0x4ed4e862860bed51a9570b96d89af5e1b0efefed",
+      "current_price": 0.00404061,
+      "market_cap": 71717133,
+      "total_volume": 23224242,
+      "price_change_24h": 14.69613,
+      "last_updated": "2025-02-08T22:37:30.588Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/34515/large/android-chrome-512x512.png?1706198225",
+        "small": "https://coin-images.coingecko.com/coins/images/34515/large/android-chrome-512x512.png?1706198225",
+        "large": "https://coin-images.coingecko.com/coins/images/34515/large/android-chrome-512x512.png?1706198225"
+      }
+    },
+    {
+      "id": "basenji",
+      "symbol": "benji",
+      "name": "Basenji",
+      "base_contract": "0xbc45647ea894030a4e9801ec03479739fa2485f0",
+      "current_price": 0.03322279,
+      "market_cap": 33228948,
+      "total_volume": 6342169,
+      "price_change_24h": -2.76022,
+      "last_updated": "2025-02-08T22:37:46.362Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/36416/large/ben200x200.jpg?1711420807",
+        "small": "https://coin-images.coingecko.com/coins/images/36416/large/ben200x200.jpg?1711420807",
+        "large": "https://coin-images.coingecko.com/coins/images/36416/large/ben200x200.jpg?1711420807"
+      }
+    },
+    {
+      "id": "tokenbot-2",
+      "symbol": "clanker",
+      "name": "tokenbot",
+      "base_contract": "0x1bc0c42215582d5a085795f4badbac3ff36d1bcb",
+      "current_price": 20.68,
+      "market_cap": 20702647,
+      "total_volume": 4325430,
+      "price_change_24h": 4.89004,
+      "last_updated": "2025-02-08T22:37:48.950Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/51440/large/CLANKER.png?1731232869",
+        "small": "https://coin-images.coingecko.com/coins/images/51440/large/CLANKER.png?1731232869",
+        "large": "https://coin-images.coingecko.com/coins/images/51440/large/CLANKER.png?1731232869"
+      }
+    },
+    {
+      "id": "moew",
+      "symbol": "moew",
+      "name": "MOEW",
+      "base_contract": "0x15ac90165f8b45a80534228bdcb124a011f62fee",
+      "current_price": 0.00080827,
+      "market_cap": 5464419,
+      "total_volume": 2224383,
+      "price_change_24h": 0.22272,
+      "last_updated": "2025-02-08T22:37:06.907Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/36737/large/img_v3_02h9_c36546da-c4b6-4636-bc50-5239ab5d78hu.png?1733472868",
+        "small": "https://coin-images.coingecko.com/coins/images/36737/large/img_v3_02h9_c36546da-c4b6-4636-bc50-5239ab5d78hu.png?1733472868",
+        "large": "https://coin-images.coingecko.com/coins/images/36737/large/img_v3_02h9_c36546da-c4b6-4636-bc50-5239ab5d78hu.png?1733472868"
+      }
+    },
+    {
+      "id": "normie-2",
+      "symbol": "normie",
+      "name": "NORMIE",
+      "base_contract": "0x47b464edb8dc9bc67b5cd4c9310bb87b773845bd",
+      "current_price": 0.00334442,
+      "market_cap": 3262118,
+      "total_volume": 43603,
+      "price_change_24h": -1.01721,
+      "last_updated": "2025-02-08T22:37:35.026Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/35880/large/NORMIEsite.png?1709983341",
+        "small": "https://coin-images.coingecko.com/coins/images/35880/large/NORMIEsite.png?1709983341",
+        "large": "https://coin-images.coingecko.com/coins/images/35880/large/NORMIEsite.png?1709983341"
+      }
+    },
+    {
+      "id": "briun-armstrung",
+      "symbol": "briun",
+      "name": "Briun Armstrung",
+      "base_contract": "0x8c81b4c816d66d36c4bf348bdec01dbcbc70e987",
+      "current_price": 0.00093831,
+      "market_cap": 730802,
+      "total_volume": 4668.63,
+      "price_change_24h": 7.3419,
+      "last_updated": "2025-02-08T22:37:43.666Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/36183/large/200x200.png?1710758416",
+        "small": "https://coin-images.coingecko.com/coins/images/36183/large/200x200.png?1710758416",
+        "large": "https://coin-images.coingecko.com/coins/images/36183/large/200x200.png?1710758416"
+      }
+    },
+    {
+      "id": "omni-network",
+      "symbol": "omni",
+      "name": "Omni Network",
+      "base_contract": null,
+      "current_price": 4.74,
+      "market_cap": 82341138,
+      "total_volume": 16962164,
+      "price_change_24h": 6.19214,
+      "last_updated": "2025-02-08T22:38:04.980Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/36465/large/Symbol-Color.png?1711511095",
+        "small": "https://coin-images.coingecko.com/coins/images/36465/large/Symbol-Color.png?1711511095",
+        "large": "https://coin-images.coingecko.com/coins/images/36465/large/Symbol-Color.png?1711511095"
+      }
+    },
+    {
+      "id": "moby-ai",
+      "symbol": "moby",
+      "name": "Moby AI",
+      "base_contract": null,
+      "current_price": 0.04037993,
+      "market_cap": 40720626,
+      "total_volume": 6787917,
+      "price_change_24h": 26.51659,
+      "last_updated": "2025-02-08T22:38:08.442Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/53613/large/PFP_V3.png?1736888476",
+        "small": "https://coin-images.coingecko.com/coins/images/53613/large/PFP_V3.png?1736888476",
+        "large": "https://coin-images.coingecko.com/coins/images/53613/large/PFP_V3.png?1736888476"
+      }
+    },
+    {
+      "id": "superwalk",
+      "symbol": "grnd",
+      "name": "SuperWalk GRND",
+      "base_contract": null,
+      "current_price": 0.04796974,
+      "market_cap": 7824670,
+      "total_volume": 675994,
+      "price_change_24h": -7.04384,
+      "last_updated": "2025-02-08T22:38:12.721Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/27186/large/GRND_3x.png?1696526235",
+        "small": "https://coin-images.coingecko.com/coins/images/27186/large/GRND_3x.png?1696526235",
+        "large": "https://coin-images.coingecko.com/coins/images/27186/large/GRND_3x.png?1696526235"
+      }
+    },
+    {
+      "id": "mochi-thecatcoin",
+      "symbol": "mochi",
+      "name": "Mochi",
+      "base_contract": "0xf6e932ca12afa26665dc4dde7e27be02a7c02e50",
+      "current_price": 0.00001868,
+      "market_cap": 18679887,
+      "total_volume": 1278448,
+      "price_change_24h": -11.16953,
+      "last_updated": "2025-02-08T22:38:18.961Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/33083/large/CIRCLE-200x200.png?1713297273",
+        "small": "https://coin-images.coingecko.com/coins/images/33083/large/CIRCLE-200x200.png?1713297273",
+        "large": "https://coin-images.coingecko.com/coins/images/33083/large/CIRCLE-200x200.png?1713297273"
+      }
+    },
+    {
+      "id": "boge",
+      "symbol": "boge",
+      "name": "BOGE",
+      "base_contract": "0xef553b6914dbd17567393f7e55fbd773fff7d0cb",
+      "current_price": 0.00011736,
+      "market_cap": 0,
+      "total_volume": 439.33,
+      "price_change_24h": 1.57586,
+      "last_updated": "2025-02-08T22:37:44.544Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/35545/large/boge.jpeg?1709094269",
+        "small": "https://coin-images.coingecko.com/coins/images/35545/large/boge.jpeg?1709094269",
+        "large": "https://coin-images.coingecko.com/coins/images/35545/large/boge.jpeg?1709094269"
+      }
+    },
+    {
+      "id": "akuma-inu",
+      "symbol": "akuma",
+      "name": "Akuma Inu",
+      "base_contract": "0x2f20cf3466f80a5f7f532fca553c8cbc9727fef6",
+      "current_price": 0.00011316,
+      "market_cap": 75453453,
+      "total_volume": 3549695,
+      "price_change_24h": -0.62828,
+      "last_updated": "2025-02-08T22:38:24.057Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/52182/large/IMG_8186.png?1735828700",
+        "small": "https://coin-images.coingecko.com/coins/images/52182/large/IMG_8186.png?1735828700",
+        "large": "https://coin-images.coingecko.com/coins/images/52182/large/IMG_8186.png?1735828700"
+      }
+    },
+    {
+      "id": "marso-tech",
+      "symbol": "marso",
+      "name": "Marso.Tech",
+      "base_contract": "0xdfd579dd6aeb232e95a15d964a135a61925b5c93",
+      "current_price": 0.00295241,
+      "market_cap": 30749682,
+      "total_volume": 240196,
+      "price_change_24h": 0.3877,
+      "last_updated": "2025-02-08T22:38:29.838Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/50292/large/QKbwAja.png?1726905588",
+        "small": "https://coin-images.coingecko.com/coins/images/50292/large/QKbwAja.png?1726905588",
+        "large": "https://coin-images.coingecko.com/coins/images/50292/large/QKbwAja.png?1726905588"
+      }
+    },
+    {
+      "id": "doginme",
+      "symbol": "doginme",
+      "name": "doginme",
+      "base_contract": "0x6921b130d297cc43754afba22e5eac0fbf8db75b",
+      "current_price": 0.00055046,
+      "market_cap": 37257609,
+      "total_volume": 1543714,
+      "price_change_24h": 37.43429,
+      "last_updated": "2025-02-08T22:38:27.308Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/35123/large/doginme-logo1-transparent200.png?1710856784",
+        "small": "https://coin-images.coingecko.com/coins/images/35123/large/doginme-logo1-transparent200.png?1710856784",
+        "large": "https://coin-images.coingecko.com/coins/images/35123/large/doginme-logo1-transparent200.png?1710856784"
+      }
+    },
+    {
+      "id": "keyboard-cat-base",
+      "symbol": "keycat",
+      "name": "Keyboard Cat (Base)",
+      "base_contract": "0x9a26f5433671751c3276a065f57e5a02d2817973",
+      "current_price": 0.00348005,
+      "market_cap": 34817852,
+      "total_volume": 3903259,
+      "price_change_24h": 10.38891,
+      "last_updated": "2025-02-08T22:38:40.682Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/36608/large/keyboard_cat.jpeg?1711965348",
+        "small": "https://coin-images.coingecko.com/coins/images/36608/large/keyboard_cat.jpeg?1711965348",
+        "large": "https://coin-images.coingecko.com/coins/images/36608/large/keyboard_cat.jpeg?1711965348"
+      }
+    },
+    {
+      "id": "henlo-2",
+      "symbol": "henlo",
+      "name": "Henlo",
+      "base_contract": "0x23a96680ccde03bd4bdd9a3e9a0cb56a5d27f7c9",
+      "current_price": 1.28092e-7,
+      "market_cap": 22693309,
+      "total_volume": 411447,
+      "price_change_24h": -2.14064,
+      "last_updated": "2025-02-08T22:38:40.419Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/52083/large/henlo.webp?1732532244",
+        "small": "https://coin-images.coingecko.com/coins/images/52083/large/henlo.webp?1732532244",
+        "large": "https://coin-images.coingecko.com/coins/images/52083/large/henlo.webp?1732532244"
+      }
+    },
+    {
+      "id": "frok-ai",
+      "symbol": "frok",
+      "name": "Frok.ai",
+      "base_contract": "0x42069babe14fb1802c5cb0f50bb9d2ad6fef55e2",
+      "current_price": 0.054538,
+      "market_cap": 22952318,
+      "total_volume": 8885.29,
+      "price_change_24h": 4.46173,
+      "last_updated": "2025-02-08T22:38:50.949Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/36028/large/Frok_logo.png?1710389187",
+        "small": "https://coin-images.coingecko.com/coins/images/36028/large/Frok_logo.png?1710389187",
+        "large": "https://coin-images.coingecko.com/coins/images/36028/large/Frok_logo.png?1710389187"
+      }
+    },
+    {
+      "id": "aerobud",
+      "symbol": "aerobud",
+      "name": "AEROBUD",
+      "base_contract": "0xfad8cb754230dbfd249db0e8eccb5142dd675a0d",
+      "current_price": 0.01663037,
+      "market_cap": 16664103,
+      "total_volume": 106948,
+      "price_change_24h": 0.0088,
+      "last_updated": "2025-02-08T22:39:02.182Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/38210/large/Logo_Coingecko.png?1716798924",
+        "small": "https://coin-images.coingecko.com/coins/images/38210/large/Logo_Coingecko.png?1716798924",
+        "large": "https://coin-images.coingecko.com/coins/images/38210/large/Logo_Coingecko.png?1716798924"
+      }
+    },
+    {
+      "id": "fartcoin",
+      "symbol": "fartcoin",
+      "name": "Fartcoin",
+      "base_contract": null,
+      "current_price": 0.524551,
+      "market_cap": 525428165,
+      "total_volume": 183812882,
+      "price_change_24h": 26.42697,
+      "last_updated": "2025-02-08T22:39:06.752Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/50891/large/fart.jpg?1729503972",
+        "small": "https://coin-images.coingecko.com/coins/images/50891/large/fart.jpg?1729503972",
+        "large": "https://coin-images.coingecko.com/coins/images/50891/large/fart.jpg?1729503972"
+      }
+    },
+    {
+      "id": "base-god",
+      "symbol": "tybg",
+      "name": "Base God",
+      "base_contract": "0x0d97f261b1e88845184f678e2d1e7a98d9fd38de",
+      "current_price": 0.00010227,
+      "market_cap": 12539016,
+      "total_volume": 452161,
+      "price_change_24h": -9.45477,
+      "last_updated": "2025-02-08T22:39:03.252Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/34563/large/tybg.png?1705400778",
+        "small": "https://coin-images.coingecko.com/coins/images/34563/large/tybg.png?1705400778",
+        "large": "https://coin-images.coingecko.com/coins/images/34563/large/tybg.png?1705400778"
+      }
+    },
+    {
+      "id": "aixcb-by-virtuals",
+      "symbol": "aixcb",
+      "name": "aixCB by Virtuals",
+      "base_contract": "0x76c71f1703fbf19ffdcf3051e1e684cb9934510f",
+      "current_price": 0.01174935,
+      "market_cap": 11700202,
+      "total_volume": 403038,
+      "price_change_24h": -1.75843,
+      "last_updated": "2025-02-08T22:39:12.019Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/52869/large/aixCB.jpg?1734551540",
+        "small": "https://coin-images.coingecko.com/coins/images/52869/large/aixCB.jpg?1734551540",
+        "large": "https://coin-images.coingecko.com/coins/images/52869/large/aixCB.jpg?1734551540"
+      }
+    },
+    {
+      "id": "mfercoin",
+      "symbol": "mfer",
+      "name": "mfercoin",
+      "base_contract": "0xe3086852a4b125803c815a158249ae468a3254ca",
+      "current_price": 0.01159615,
+      "market_cap": 11596329,
+      "total_volume": 2942246,
+      "price_change_24h": -0.82291,
+      "last_updated": "2025-02-08T22:39:08.846Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/36550/large/mfercoin-logo.png?1711876821",
+        "small": "https://coin-images.coingecko.com/coins/images/36550/large/mfercoin-logo.png?1711876821",
+        "large": "https://coin-images.coingecko.com/coins/images/36550/large/mfercoin-logo.png?1711876821"
+      }
+    },
+    {
+      "id": "prefrontal-cortex-convo-agent-by-virtuals",
+      "symbol": "convo",
+      "name": "Prefrontal Cortex Convo Agent by Virtuals",
+      "base_contract": "0xab964f7b7b6391bd6c4e8512ef00d01f255d9c0d",
+      "current_price": 0.0094375,
+      "market_cap": 9439309,
+      "total_volume": 263147,
+      "price_change_24h": 13.24804,
+      "last_updated": "2025-02-08T22:39:12.720Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/51064/large/Convo_Agent_89ef084f87.jpg?1729926154",
+        "small": "https://coin-images.coingecko.com/coins/images/51064/large/Convo_Agent_89ef084f87.jpg?1729926154",
+        "large": "https://coin-images.coingecko.com/coins/images/51064/large/Convo_Agent_89ef084f87.jpg?1729926154"
+      }
+    },
+    {
+      "id": "help",
+      "symbol": "help",
+      "name": "Help",
+      "base_contract": "0x1c9f5e5b5c172955660c11ec0df65b68ecb5fb69",
+      "current_price": 21.74,
+      "market_cap": 1977952,
+      "total_volume": 3233.08,
+      "price_change_24h": 2.48939,
+      "last_updated": "2025-02-08T22:37:46.199Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/51165/large/help.png?1731654094",
+        "small": "https://coin-images.coingecko.com/coins/images/51165/large/help.png?1731654094",
+        "large": "https://coin-images.coingecko.com/coins/images/51165/large/help.png?1731654094"
+      }
+    },
+    {
+      "id": "bamboo-on-base",
+      "symbol": "bamboo",
+      "name": "Bamboo on Base",
+      "base_contract": "0x689644b86075ed61c647596862c7403e1c474dbf",
+      "current_price": 0.00559775,
+      "market_cap": 5599974,
+      "total_volume": 100435,
+      "price_change_24h": 2.10313,
+      "last_updated": "2025-02-08T22:39:02.358Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/39126/large/Bamboo_Logo_800x800.png?1720656497",
+        "small": "https://coin-images.coingecko.com/coins/images/39126/large/Bamboo_Logo_800x800.png?1720656497",
+        "large": "https://coin-images.coingecko.com/coins/images/39126/large/Bamboo_Logo_800x800.png?1720656497"
+      }
+    },
+    {
+      "id": "realgoat",
+      "symbol": "rgoat",
+      "name": "RealGoat",
+      "base_contract": "0xf0268c5f9aa95baf5c25d646aabb900ac12f0800",
+      "current_price": 2.22376e-7,
+      "market_cap": 4663171,
+      "total_volume": 64259,
+      "price_change_24h": -0.13029,
+      "last_updated": "2025-02-08T22:39:02.441Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/38923/large/IMG_20240625_033037_003.jpg?1719521003",
+        "small": "https://coin-images.coingecko.com/coins/images/38923/large/IMG_20240625_033037_003.jpg?1719521003",
+        "large": "https://coin-images.coingecko.com/coins/images/38923/large/IMG_20240625_033037_003.jpg?1719521003"
+      }
+    },
+    {
+      "id": "andy-the-wisguy",
+      "symbol": "andy",
+      "name": "ANDY ETH",
+      "base_contract": null,
+      "current_price": 0.00006642,
+      "market_cap": 66396333,
+      "total_volume": 2886595,
+      "price_change_24h": 24.15741,
+      "last_updated": "2025-02-08T22:39:34.800Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/35910/large/IMG_20240309_044840_797.jpg?1710179397",
+        "small": "https://coin-images.coingecko.com/coins/images/35910/large/IMG_20240309_044840_797.jpg?1710179397",
+        "large": "https://coin-images.coingecko.com/coins/images/35910/large/IMG_20240309_044840_797.jpg?1710179397"
+      }
+    },
+    {
+      "id": "tn100x",
+      "symbol": "tn100x",
+      "name": "TN100x",
+      "base_contract": "0x5b5dee44552546ecea05edea01dcd7be7aa6144a",
+      "current_price": 0.00043727,
+      "market_cap": 2614184,
+      "total_volume": 125186,
+      "price_change_24h": 16.58432,
+      "last_updated": "2025-02-08T22:37:38.207Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/35729/large/patch-transparent-blue.png?1729878068",
+        "small": "https://coin-images.coingecko.com/coins/images/35729/large/patch-transparent-blue.png?1729878068",
+        "large": "https://coin-images.coingecko.com/coins/images/35729/large/patch-transparent-blue.png?1729878068"
+      }
+    },
+    {
+      "id": "boomer",
+      "symbol": "boomer",
+      "name": "Boomer",
+      "base_contract": "0xcde172dc5ffc46d228838446c57c1227e0b82049",
+      "current_price": 0.00372992,
+      "market_cap": 3460939,
+      "total_volume": 788847,
+      "price_change_24h": 0.91784,
+      "last_updated": "2025-02-08T22:36:18.669Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/36477/large/Token_Image_200x200.png?1714757172",
+        "small": "https://coin-images.coingecko.com/coins/images/36477/large/Token_Image_200x200.png?1714757172",
+        "large": "https://coin-images.coingecko.com/coins/images/36477/large/Token_Image_200x200.png?1714757172"
+      }
+    },
+    {
+      "id": "gluteus-maximus-by-virtuals",
+      "symbol": "gluteu",
+      "name": "Gluteus Maximus by Virtuals",
+      "base_contract": "0x06a63c498ef95ad1fa4fff841955e512b4b2198a",
+      "current_price": 0.00357979,
+      "market_cap": 3557176,
+      "total_volume": 439580,
+      "price_change_24h": 11.13297,
+      "last_updated": "2025-02-08T22:39:23.559Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/52177/large/gluteu.jpg?1732685854",
+        "small": "https://coin-images.coingecko.com/coins/images/52177/large/gluteu.jpg?1732685854",
+        "large": "https://coin-images.coingecko.com/coins/images/52177/large/gluteu.jpg?1732685854"
+      }
+    },
+    {
+      "id": "floppa-cat",
+      "symbol": "floppa",
+      "name": "Floppa Cat",
+      "base_contract": "0x776aaef8d8760129a0398cf8674ee28cefc0eab9",
+      "current_price": 0.00340639,
+      "market_cap": 3411286,
+      "total_volume": 46206,
+      "price_change_24h": 15.50228,
+      "last_updated": "2025-02-08T22:39:50.983Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/36969/large/floppa.jpg?1722771377",
+        "small": "https://coin-images.coingecko.com/coins/images/36969/large/floppa.jpg?1722771377",
+        "large": "https://coin-images.coingecko.com/coins/images/36969/large/floppa.jpg?1722771377"
+      }
+    },
+    {
+      "id": "russell",
+      "symbol": "russell",
+      "name": "RUSSELL",
+      "base_contract": "0x0c5142bc58f9a61ab8c3d2085dd2f4e550c5ce0b",
+      "current_price": 0.00336372,
+      "market_cap": 3266119,
+      "total_volume": 127453,
+      "price_change_24h": 6.31151,
+      "last_updated": "2025-02-08T22:37:45.283Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/50690/large/russelllogo.png?1730010143",
+        "small": "https://coin-images.coingecko.com/coins/images/50690/large/russelllogo.png?1730010143",
+        "large": "https://coin-images.coingecko.com/coins/images/50690/large/russelllogo.png?1730010143"
+      }
+    },
+    {
+      "id": "ski-mask-cat",
+      "symbol": "skicat",
+      "name": "SKI MASK CAT",
+      "base_contract": "0xa6f774051dfb6b54869227fda2df9cb46f296c09",
+      "current_price": 0.00330197,
+      "market_cap": 3269460,
+      "total_volume": 1923998,
+      "price_change_24h": 21.98184,
+      "last_updated": "2025-02-08T22:36:20.279Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/52355/large/logo200x.png?1733168346",
+        "small": "https://coin-images.coingecko.com/coins/images/52355/large/logo200x.png?1733168346",
+        "large": "https://coin-images.coingecko.com/coins/images/52355/large/logo200x.png?1733168346"
+      }
+    },
+    {
+      "id": "ai-inu",
+      "symbol": "aiinu",
+      "name": "AI INU",
+      "base_contract": "0x8853f0c059c27527d33d02378e5e4f6d5afb574a",
+      "current_price": 0.0063755,
+      "market_cap": 2779801,
+      "total_volume": 5863.14,
+      "price_change_24h": 1.68029,
+      "last_updated": "2025-02-08T22:37:38.669Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/36902/large/aiinu.png?1712699681",
+        "small": "https://coin-images.coingecko.com/coins/images/36902/large/aiinu.png?1712699681",
+        "large": "https://coin-images.coingecko.com/coins/images/36902/large/aiinu.png?1712699681"
+      }
+    },
+    {
+      "id": "coinye-west",
+      "symbol": "coinye",
+      "name": "Coinye West",
+      "base_contract": "0x0028e1e60167b48a938b785aa5292917e7eaca8b",
+      "current_price": 0.00229431,
+      "market_cap": 2017606,
+      "total_volume": 1094195,
+      "price_change_24h": 71.95986,
+      "last_updated": "2025-02-08T22:39:07.984Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/36403/large/Coinye_West.png?1711369153",
+        "small": "https://coin-images.coingecko.com/coins/images/36403/large/Coinye_West.png?1711369153",
+        "large": "https://coin-images.coingecko.com/coins/images/36403/large/Coinye_West.png?1711369153"
+      }
+    },
+    {
+      "id": "bored-2",
+      "symbol": "bored",
+      "name": "BORED",
+      "base_contract": null,
+      "current_price": 0.001247,
+      "market_cap": 1246998,
+      "total_volume": 127.31,
+      "price_change_24h": 1.55957,
+      "last_updated": "2025-02-08T22:37:43.302Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/50884/large/boredsquare.png?1729472597",
+        "small": "https://coin-images.coingecko.com/coins/images/50884/large/boredsquare.png?1729472597",
+        "large": "https://coin-images.coingecko.com/coins/images/50884/large/boredsquare.png?1729472597"
+      }
+    },
+    {
+      "id": "skull-of-pepe-token",
+      "symbol": "skop",
+      "name": "Skull of Pepe Token",
+      "base_contract": "0x6d3b8c76c5396642960243febf736c6be8b60562",
+      "current_price": 0.01305805,
+      "market_cap": 1960365,
+      "total_volume": 358099,
+      "price_change_24h": -4.37737,
+      "last_updated": "2025-02-08T22:39:59.482Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/38342/large/skop.jpeg?1717141011",
+        "small": "https://coin-images.coingecko.com/coins/images/38342/large/skop.jpeg?1717141011",
+        "large": "https://coin-images.coingecko.com/coins/images/38342/large/skop.jpeg?1717141011"
+      }
+    },
+    {
+      "id": "plume",
+      "symbol": "plume",
+      "name": "Plume",
+      "base_contract": null,
+      "current_price": 0.120041,
+      "market_cap": 240041286,
+      "total_volume": 26220471,
+      "price_change_24h": 5.08084,
+      "last_updated": "2025-02-08T22:40:16.619Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/53623/large/plume-token.png?1736896935",
+        "small": "https://coin-images.coingecko.com/coins/images/53623/large/plume-token.png?1736896935",
+        "large": "https://coin-images.coingecko.com/coins/images/53623/large/plume-token.png?1736896935"
+      }
+    },
+    {
+      "id": "bsop",
+      "symbol": "bsop",
+      "name": "Bsop",
+      "base_contract": "0x9704d2adbc02c085ff526a37ac64872027ac8a50",
+      "current_price": 0.00187143,
+      "market_cap": 1871430,
+      "total_volume": 205045,
+      "price_change_24h": -0.6515,
+      "last_updated": "2025-02-08T22:37:21.827Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/53930/large/IMG_20250123_195741_620.png?1737746583",
+        "small": "https://coin-images.coingecko.com/coins/images/53930/large/IMG_20250123_195741_620.png?1737746583",
+        "large": "https://coin-images.coingecko.com/coins/images/53930/large/IMG_20250123_195741_620.png?1737746583"
+      }
+    },
+    {
+      "id": "gigachad-2",
+      "symbol": "giga",
+      "name": "Gigachad",
+      "base_contract": null,
+      "current_price": 0.03757253,
+      "market_cap": 360922823,
+      "total_volume": 13536169,
+      "price_change_24h": 6.6328,
+      "last_updated": "2025-02-08T22:40:26.012Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/34755/large/IMG_0015.png?1705957165",
+        "small": "https://coin-images.coingecko.com/coins/images/34755/large/IMG_0015.png?1705957165",
+        "large": "https://coin-images.coingecko.com/coins/images/34755/large/IMG_0015.png?1705957165"
+      }
+    },
+    {
+      "id": "normilio",
+      "symbol": "normilio",
+      "name": "Normilio",
+      "base_contract": "0xcde90558fc317c69580deeaf3efc509428df9080",
+      "current_price": 0.00191448,
+      "market_cap": 1751594,
+      "total_volume": 18625.9,
+      "price_change_24h": 8.24382,
+      "last_updated": "2025-02-08T22:42:04.638Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/36915/large/vm2byD93.jpg?1733436102",
+        "small": "https://coin-images.coingecko.com/coins/images/36915/large/vm2byD93.jpg?1733436102",
+        "large": "https://coin-images.coingecko.com/coins/images/36915/large/vm2byD93.jpg?1733436102"
+      }
+    },
+    {
+      "id": "stix",
+      "symbol": "stix",
+      "name": "STIX",
+      "base_contract": "0xfd1013c72cbb0ffb920d347c5836bf88965d0d5e",
+      "current_price": 0.00018037,
+      "market_cap": 0,
+      "total_volume": 12657.8,
+      "price_change_24h": 10.182,
+      "last_updated": "2025-02-08T22:40:57.766Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/52015/large/STIX_Logo_Transparent_200x200.png?1732346967",
+        "small": "https://coin-images.coingecko.com/coins/images/52015/large/STIX_Logo_Transparent_200x200.png?1732346967",
+        "large": "https://coin-images.coingecko.com/coins/images/52015/large/STIX_Logo_Transparent_200x200.png?1732346967"
+      }
+    },
+    {
+      "id": "carlo",
+      "symbol": "carlo",
+      "name": "Carlo",
+      "base_contract": "0x38d513ec43dda20f323f26c7bef74c5cf80b6477",
+      "current_price": 0.00166629,
+      "market_cap": 1668914,
+      "total_volume": 68484,
+      "price_change_24h": -3.82166,
+      "last_updated": "2025-02-08T22:40:44.143Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/37553/large/CARLO_200x200.png?1714752141",
+        "small": "https://coin-images.coingecko.com/coins/images/37553/large/CARLO_200x200.png?1714752141",
+        "large": "https://coin-images.coingecko.com/coins/images/37553/large/CARLO_200x200.png?1714752141"
+      }
+    },
+    {
+      "id": "crashout",
+      "symbol": "crashout",
+      "name": "Crashout",
+      "base_contract": null,
+      "current_price": 0.00541566,
+      "market_cap": 5415621,
+      "total_volume": 421705,
+      "price_change_24h": -10.8762,
+      "last_updated": "2025-02-08T22:41:54.985Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/50899/large/crashout_logo.png?1738184253",
+        "small": "https://coin-images.coingecko.com/coins/images/50899/large/crashout_logo.png?1738184253",
+        "large": "https://coin-images.coingecko.com/coins/images/50899/large/crashout_logo.png?1738184253"
+      }
+    },
+    {
+      "id": "wassie",
+      "symbol": "wassie",
+      "name": "WASSIE",
+      "base_contract": "0xa067436db77ab18b1a315095e4b816791609897c",
+      "current_price": 0.00000226,
+      "market_cap": 1552400,
+      "total_volume": 1906.62,
+      "price_change_24h": 1.18294,
+      "last_updated": "2025-02-08T22:41:51.518Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/30144/large/logo-coingecko.png?1696529065",
+        "small": "https://coin-images.coingecko.com/coins/images/30144/large/logo-coingecko.png?1696529065",
+        "large": "https://coin-images.coingecko.com/coins/images/30144/large/logo-coingecko.png?1696529065"
+      }
+    },
+    {
+      "id": "okayeg",
+      "symbol": "okayeg",
+      "name": "Okayeg",
+      "base_contract": "0xdb6e0e5094a25a052ab6845a9f1e486b9a9b3dde",
+      "current_price": 0.00000382,
+      "market_cap": 1608617,
+      "total_volume": 25619,
+      "price_change_24h": -0.32961,
+      "last_updated": "2025-02-08T22:40:44.254Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/37748/large/Okayeg_200.png?1715442444",
+        "small": "https://coin-images.coingecko.com/coins/images/37748/large/Okayeg_200.png?1715442444",
+        "large": "https://coin-images.coingecko.com/coins/images/37748/large/Okayeg_200.png?1715442444"
+      }
+    },
+    {
+      "id": "based-bario",
+      "symbol": "bario",
+      "name": "Based Bario",
+      "base_contract": "0x814fe70e85025bec87d4ad3f3b713bdcaac0579b",
+      "current_price": 0.0015579,
+      "market_cap": 1565220,
+      "total_volume": 130958,
+      "price_change_24h": -2.32715,
+      "last_updated": "2025-02-08T22:42:55.445Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/50719/large/bario.jpg?1728803763",
+        "small": "https://coin-images.coingecko.com/coins/images/50719/large/bario.jpg?1728803763",
+        "large": "https://coin-images.coingecko.com/coins/images/50719/large/bario.jpg?1728803763"
+      }
+    },
+    {
+      "id": "paris-saint-germain-fan-token",
+      "symbol": "psg",
+      "name": "Paris Saint-Germain Fan Token",
+      "base_contract": null,
+      "current_price": 2.22,
+      "market_cap": 16392697,
+      "total_volume": 3333243,
+      "price_change_24h": 3.57701,
+      "last_updated": "2025-02-08T22:43:15.378Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/11620/large/psg.png?1696511513",
+        "small": "https://coin-images.coingecko.com/coins/images/11620/large/psg.png?1696511513",
+        "large": "https://coin-images.coingecko.com/coins/images/11620/large/psg.png?1696511513"
+      }
+    },
+    {
+      "id": "fungi-2",
+      "symbol": "fungi",
+      "name": "FUNGI",
+      "base_contract": null,
+      "current_price": 0.00118633,
+      "market_cap": 1185909,
+      "total_volume": 4614.79,
+      "price_change_24h": 5.81103,
+      "last_updated": "2025-02-08T22:39:49.823Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/53304/large/Fungi_Logo_3.0.png?1736065493",
+        "small": "https://coin-images.coingecko.com/coins/images/53304/large/Fungi_Logo_3.0.png?1736065493",
+        "large": "https://coin-images.coingecko.com/coins/images/53304/large/Fungi_Logo_3.0.png?1736065493"
+      }
+    },
+    {
+      "id": "cjournal",
+      "symbol": "ucjl",
+      "name": "Utility Cjournal",
+      "base_contract": null,
+      "current_price": 5.66,
+      "market_cap": 1540479,
+      "total_volume": 29658,
+      "price_change_24h": 14.16957,
+      "last_updated": "2025-02-08T22:43:27.704Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/31523/large/UCJL_-cg_%E6%8B%B7%E8%B4%9D.png?1696530333",
+        "small": "https://coin-images.coingecko.com/coins/images/31523/large/UCJL_-cg_%E6%8B%B7%E8%B4%9D.png?1696530333",
+        "large": "https://coin-images.coingecko.com/coins/images/31523/large/UCJL_-cg_%E6%8B%B7%E8%B4%9D.png?1696530333"
+      }
+    },
+    {
+      "id": "luckycoin",
+      "symbol": "lky",
+      "name": "Luckycoin",
+      "base_contract": null,
+      "current_price": 0.405305,
+      "market_cap": 6865654,
+      "total_volume": 323720,
+      "price_change_24h": 6.57688,
+      "last_updated": "2025-02-08T22:42:55.649Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/207/large/luckycoin.png?1696501576",
+        "small": "https://coin-images.coingecko.com/coins/images/207/large/luckycoin.png?1696501576",
+        "large": "https://coin-images.coingecko.com/coins/images/207/large/luckycoin.png?1696501576"
+      }
+    },
+    {
+      "id": "condo",
+      "symbol": "condo",
+      "name": "CONDO",
+      "base_contract": "0x30d19fb77c3ee5cfa97f73d72c6a1e509fa06aef",
+      "current_price": 0.00012669,
+      "market_cap": 1266940,
+      "total_volume": 120.26,
+      "price_change_24h": 2.41623,
+      "last_updated": "2025-02-08T22:21:20.262Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/37174/large/1000012387.jpg?1724589415",
+        "small": "https://coin-images.coingecko.com/coins/images/37174/large/1000012387.jpg?1724589415",
+        "large": "https://coin-images.coingecko.com/coins/images/37174/large/1000012387.jpg?1724589415"
+      }
+    },
+    {
+      "id": "roost",
+      "symbol": "roost",
+      "name": "Roost",
+      "base_contract": "0xed899bfdb28c8ad65307fa40f4acab113ae2e14c",
+      "current_price": 0.00100173,
+      "market_cap": 1001511,
+      "total_volume": 8980.25,
+      "price_change_24h": -3.04683,
+      "last_updated": "2025-02-08T22:43:14.781Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/36458/large/roost.jpeg?1711493580",
+        "small": "https://coin-images.coingecko.com/coins/images/36458/large/roost.jpeg?1711493580",
+        "large": "https://coin-images.coingecko.com/coins/images/36458/large/roost.jpeg?1711493580"
+      }
+    },
+    {
+      "id": "noggles",
+      "symbol": "nogs",
+      "name": "Noggles",
+      "base_contract": "0x13741c5df9ab03e7aa9fb3bf1f714551dd5a5f8a",
+      "current_price": 0.00001812,
+      "market_cap": 0,
+      "total_volume": 82.52,
+      "price_change_24h": 3.83812,
+      "last_updated": "2025-02-08T22:43:40.199Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/37238/large/nogs.jpeg?1713851209",
+        "small": "https://coin-images.coingecko.com/coins/images/37238/large/nogs.jpeg?1713851209",
+        "large": "https://coin-images.coingecko.com/coins/images/37238/large/nogs.jpeg?1713851209"
+      }
+    },
+    {
+      "id": "barry-the-badger",
+      "symbol": "barry",
+      "name": "Barry the badger",
+      "base_contract": "0xf09034487c84954d49ae04bf6817148ffc2edb83",
+      "current_price": 0.00095597,
+      "market_cap": 936918,
+      "total_volume": 323107,
+      "price_change_24h": 4.94701,
+      "last_updated": "2025-02-08T22:43:43.504Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/53144/large/IMG_4596.jpeg?1735377862",
+        "small": "https://coin-images.coingecko.com/coins/images/53144/large/IMG_4596.jpeg?1735377862",
+        "large": "https://coin-images.coingecko.com/coins/images/53144/large/IMG_4596.jpeg?1735377862"
+      }
+    },
+    {
+      "id": "poollotto-finance",
+      "symbol": "plt",
+      "name": "Poollotto.finance",
+      "base_contract": null,
+      "current_price": 2.92,
+      "market_cap": 46413330,
+      "total_volume": 1389.98,
+      "price_change_24h": 6.82093,
+      "last_updated": "2025-02-08T22:43:39.621Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/21425/large/polotto.png?1696520788",
+        "small": "https://coin-images.coingecko.com/coins/images/21425/large/polotto.png?1696520788",
+        "large": "https://coin-images.coingecko.com/coins/images/21425/large/polotto.png?1696520788"
+      }
+    },
+    {
+      "id": "dino-2",
+      "symbol": "dino",
+      "name": "DINO",
+      "base_contract": null,
+      "current_price": 0.00228747,
+      "market_cap": 2241723,
+      "total_volume": 14929.4,
+      "price_change_24h": 4.2547,
+      "last_updated": "2025-02-08T22:43:14.693Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/53533/large/coin_pfp.png?1736581197",
+        "small": "https://coin-images.coingecko.com/coins/images/53533/large/coin_pfp.png?1736581197",
+        "large": "https://coin-images.coingecko.com/coins/images/53533/large/coin_pfp.png?1736581197"
+      }
+    },
+    {
+      "id": "thug-life",
+      "symbol": "thug",
+      "name": "Thug Life",
+      "base_contract": null,
+      "current_price": 0.00001386,
+      "market_cap": 0,
+      "total_volume": 9.56,
+      "price_change_24h": 1.79604,
+      "last_updated": "2025-02-08T22:39:19.522Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/31036/large/IMG_20230717_172433_167.jpg?1696529871",
+        "small": "https://coin-images.coingecko.com/coins/images/31036/large/IMG_20230717_172433_167.jpg?1696529871",
+        "large": "https://coin-images.coingecko.com/coins/images/31036/large/IMG_20230717_172433_167.jpg?1696529871"
+      }
+    },
+    {
+      "id": "a-hunters-dream",
+      "symbol": "caw",
+      "name": "A Hunters Dream",
+      "base_contract": null,
+      "current_price": 4.1938e-8,
+      "market_cap": 26699597,
+      "total_volume": 803118,
+      "price_change_24h": 1.56088,
+      "last_updated": "2025-02-08T22:44:06.028Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/25130/large/x-Logo-color-10x.png?1696524280",
+        "small": "https://coin-images.coingecko.com/coins/images/25130/large/x-Logo-color-10x.png?1696524280",
+        "large": "https://coin-images.coingecko.com/coins/images/25130/large/x-Logo-color-10x.png?1696524280"
+      }
+    },
+    {
+      "id": "upside-down-meme",
+      "symbol": "wewe",
+      "name": "WEWECOIN",
+      "base_contract": "0x6b9bb36519538e0c073894e964e90172e1c0b41f",
+      "current_price": 0.00000833,
+      "market_cap": 832915,
+      "total_volume": 43.72,
+      "price_change_24h": 0.27078,
+      "last_updated": "2025-02-08T22:43:41.799Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/39135/large/wewe_logo.png?1720857800",
+        "small": "https://coin-images.coingecko.com/coins/images/39135/large/wewe_logo.png?1720857800",
+        "large": "https://coin-images.coingecko.com/coins/images/39135/large/wewe_logo.png?1720857800"
+      }
+    },
+    {
+      "id": "dog-wif-nuchucks",
+      "symbol": "ninja",
+      "name": "Dog Wif Nunchucks",
+      "base_contract": null,
+      "current_price": 0.00250582,
+      "market_cap": 2505997,
+      "total_volume": 8907.42,
+      "price_change_24h": 1.97447,
+      "last_updated": "2025-02-08T22:43:53.369Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/33761/large/NinjaLogoResized.png?1706179533",
+        "small": "https://coin-images.coingecko.com/coins/images/33761/large/NinjaLogoResized.png?1706179533",
+        "large": "https://coin-images.coingecko.com/coins/images/33761/large/NinjaLogoResized.png?1706179533"
+      }
+    },
+    {
+      "id": "gamebuild",
+      "symbol": "game",
+      "name": "GameBuild",
+      "base_contract": null,
+      "current_price": 0.00461981,
+      "market_cap": 76900437,
+      "total_volume": 10854043,
+      "price_change_24h": 1.70387,
+      "last_updated": "2025-02-08T22:44:16.536Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/37789/large/Gamebuild-logo-200.png?1715586834",
+        "small": "https://coin-images.coingecko.com/coins/images/37789/large/Gamebuild-logo-200.png?1715586834",
+        "large": "https://coin-images.coingecko.com/coins/images/37789/large/Gamebuild-logo-200.png?1715586834"
+      }
+    },
+    {
+      "id": "rekt-4",
+      "symbol": "rekt",
+      "name": "Rekt",
+      "base_contract": "0xb3e3c89b8d9c88b1fe96856e382959ee6291ebba",
+      "current_price": 8.4658e-8,
+      "market_cap": 35622697,
+      "total_volume": 10681486,
+      "price_change_24h": -5.57465,
+      "last_updated": "2025-02-08T22:44:18.731Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/51727/large/rektcion_trans_200px.png?1731910587",
+        "small": "https://coin-images.coingecko.com/coins/images/51727/large/rektcion_trans_200px.png?1731910587",
+        "large": "https://coin-images.coingecko.com/coins/images/51727/large/rektcion_trans_200px.png?1731910587"
+      }
+    },
+    {
+      "id": "poncho",
+      "symbol": "poncho",
+      "name": "Poncho",
+      "base_contract": "0xc2fe011c3885277c7f0e7ffd45ff90cadc8ecd12",
+      "current_price": 0.07352,
+      "market_cap": 735201,
+      "total_volume": 8624.03,
+      "price_change_24h": 7.98741,
+      "last_updated": "2025-02-08T22:43:40.094Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/36160/large/ponchologo.PNG?1710744293",
+        "small": "https://coin-images.coingecko.com/coins/images/36160/large/ponchologo.PNG?1710744293",
+        "large": "https://coin-images.coingecko.com/coins/images/36160/large/ponchologo.PNG?1710744293"
+      }
+    },
+    {
+      "id": "moon-tropica",
+      "symbol": "cah",
+      "name": "Moon Tropica",
+      "base_contract": null,
+      "current_price": 4.72,
+      "market_cap": 13241250,
+      "total_volume": 205111,
+      "price_change_24h": -9.14766,
+      "last_updated": "2025-02-08T22:44:39.258Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/28470/large/MTLOGO.png?1696527464",
+        "small": "https://coin-images.coingecko.com/coins/images/28470/large/MTLOGO.png?1696527464",
+        "large": "https://coin-images.coingecko.com/coins/images/28470/large/MTLOGO.png?1696527464"
+      }
+    },
+    {
+      "id": "boda-token",
+      "symbol": "bodav2",
+      "name": "BODA",
+      "base_contract": null,
+      "current_price": 1.93676e-10,
+      "market_cap": 0,
+      "total_volume": 19.24,
+      "price_change_24h": 4.89922,
+      "last_updated": "2025-02-08T16:47:28.234Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/19168/large/BODAV2-New-logo-round-200.png?1696518617",
+        "small": "https://coin-images.coingecko.com/coins/images/19168/large/BODAV2-New-logo-round-200.png?1696518617",
+        "large": "https://coin-images.coingecko.com/coins/images/19168/large/BODAV2-New-logo-round-200.png?1696518617"
+      }
+    },
+    {
+      "id": "chinese-doge-wow",
+      "symbol": "chido",
+      "name": "Chinese Doge Wow",
+      "base_contract": "0xf31e6d62bfc485857af2186eb3d8ee94b4379fed",
+      "current_price": 0.00055125,
+      "market_cap": 524713,
+      "total_volume": 25600,
+      "price_change_24h": -8.09471,
+      "last_updated": "2025-02-08T22:43:23.384Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/52054/large/1.png?1732449299",
+        "small": "https://coin-images.coingecko.com/coins/images/52054/large/1.png?1732449299",
+        "large": "https://coin-images.coingecko.com/coins/images/52054/large/1.png?1732449299"
+      }
+    },
+    {
+      "id": "bento",
+      "symbol": "bento",
+      "name": "Bento",
+      "base_contract": "0x9de16c805a3227b9b92e39a446f9d56cf59fe640",
+      "current_price": 5.427e-9,
+      "market_cap": 0,
+      "total_volume": 1528.95,
+      "price_change_24h": 1.85048,
+      "last_updated": "2025-02-08T22:25:23.032Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/37138/large/logo-bento-200-200.png?1713419221",
+        "small": "https://coin-images.coingecko.com/coins/images/37138/large/logo-bento-200-200.png?1713419221",
+        "large": "https://coin-images.coingecko.com/coins/images/37138/large/logo-bento-200-200.png?1713419221"
+      }
+    },
+    {
+      "id": "pepe",
+      "symbol": "pepe",
+      "name": "Pepe",
+      "base_contract": null,
+      "current_price": 0.00000946,
+      "market_cap": 3987631117,
+      "total_volume": 727207180,
+      "price_change_24h": 10.98749,
+      "last_updated": "2025-02-08T22:38:10.055Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1696528776",
+        "small": "https://coin-images.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1696528776",
+        "large": "https://coin-images.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1696528776"
+      }
+    },
+    {
+      "id": "optimism",
+      "symbol": "op",
+      "name": "Optimism",
+      "base_contract": null,
+      "current_price": 1.057,
+      "market_cap": 1428597776,
+      "total_volume": 136404616,
+      "price_change_24h": 6.78037,
+      "last_updated": "2025-02-08T22:44:49.741Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/25244/large/Optimism.png?1696524385",
+        "small": "https://coin-images.coingecko.com/coins/images/25244/large/Optimism.png?1696524385",
+        "large": "https://coin-images.coingecko.com/coins/images/25244/large/Optimism.png?1696524385"
+      }
+    },
+    {
+      "id": "dogecoin",
+      "symbol": "doge",
+      "name": "Dogecoin",
+      "base_contract": null,
+      "current_price": 0.251109,
+      "market_cap": 37135034027,
+      "total_volume": 992825457,
+      "price_change_24h": 4.34634,
+      "last_updated": "2025-02-08T22:44:19.361Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/5/large/dogecoin.png?1696501409",
+        "small": "https://coin-images.coingecko.com/coins/images/5/large/dogecoin.png?1696501409",
+        "large": "https://coin-images.coingecko.com/coins/images/5/large/dogecoin.png?1696501409"
+      }
+    },
+    {
+      "id": "mrs-miggles",
+      "symbol": "mrsmiggles",
+      "name": "Mrs Miggles",
+      "base_contract": "0x31b28012f61fc3600e1c076bafc9fd997fb2da90",
+      "current_price": 0.00043904,
+      "market_cap": 416494,
+      "total_volume": 7432.87,
+      "price_change_24h": 2.82802,
+      "last_updated": "2025-02-08T22:29:57.832Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/39282/large/token.png?1722045136",
+        "small": "https://coin-images.coingecko.com/coins/images/39282/large/token.png?1722045136",
+        "large": "https://coin-images.coingecko.com/coins/images/39282/large/token.png?1722045136"
+      }
+    },
+    {
+      "id": "kendu-inu",
+      "symbol": "kendu",
+      "name": "Kendu Inu",
+      "base_contract": "0xef73611f98da6e57e0776317957af61b59e09ed7",
+      "current_price": 0.00001372,
+      "market_cap": 13562387,
+      "total_volume": 865365,
+      "price_change_24h": 2.44705,
+      "last_updated": "2025-02-08T22:45:03.979Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/35722/large/photo_2024-03-05_01-23-59_%281%29.jpg?1709632285",
+        "small": "https://coin-images.coingecko.com/coins/images/35722/large/photo_2024-03-05_01-23-59_%281%29.jpg?1709632285",
+        "large": "https://coin-images.coingecko.com/coins/images/35722/large/photo_2024-03-05_01-23-59_%281%29.jpg?1709632285"
+      }
+    },
+    {
+      "id": "all-your-base-2",
+      "symbol": "ayb",
+      "name": "All Your Base",
+      "base_contract": "0x7ed613ab8b2b4c6a781ddc97ea98a666c6437511",
+      "current_price": 2.10741e-7,
+      "market_cap": 419375,
+      "total_volume": 1974.93,
+      "price_change_24h": -1.5919,
+      "last_updated": "2025-02-08T22:43:36.782Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/35777/large/AYB-Coingecko.png?1718634946",
+        "small": "https://coin-images.coingecko.com/coins/images/35777/large/AYB-Coingecko.png?1718634946",
+        "large": "https://coin-images.coingecko.com/coins/images/35777/large/AYB-Coingecko.png?1718634946"
+      }
+    },
+    {
+      "id": "bonkey",
+      "symbol": "bonkey",
+      "name": "Bonkey",
+      "base_contract": "0x3c5fdf0ee37d62c774025599e3b692d027746e24",
+      "current_price": 0.00041215,
+      "market_cap": 366579,
+      "total_volume": 11147.31,
+      "price_change_24h": -7.76914,
+      "last_updated": "2025-02-08T22:39:57.048Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/51629/large/nWKo5DZvrtkwwjtT7YXyYQeDstBhvwrqxdOmGmWvUNN6d_GSurf_TR1InJS8oLo2WYIJG2ZsX2Lffmr8z1bjqjygtVNcAKuMIX3TJPg65wPZepTpTQnXCXZrbA_oXuiIkzN2PU1vd1i6scKtGgJa4ffeecm1R7WzR7NX65j6JVu_ys42VMrpvNuNJ2ovRGM8sh9V-MovD8Mbs9NkaYQ_%281%29.jpg?1731664154",
+        "small": "https://coin-images.coingecko.com/coins/images/51629/large/nWKo5DZvrtkwwjtT7YXyYQeDstBhvwrqxdOmGmWvUNN6d_GSurf_TR1InJS8oLo2WYIJG2ZsX2Lffmr8z1bjqjygtVNcAKuMIX3TJPg65wPZepTpTQnXCXZrbA_oXuiIkzN2PU1vd1i6scKtGgJa4ffeecm1R7WzR7NX65j6JVu_ys42VMrpvNuNJ2ovRGM8sh9V-MovD8Mbs9NkaYQ_%281%29.jpg?1731664154",
+        "large": "https://coin-images.coingecko.com/coins/images/51629/large/nWKo5DZvrtkwwjtT7YXyYQeDstBhvwrqxdOmGmWvUNN6d_GSurf_TR1InJS8oLo2WYIJG2ZsX2Lffmr8z1bjqjygtVNcAKuMIX3TJPg65wPZepTpTQnXCXZrbA_oXuiIkzN2PU1vd1i6scKtGgJa4ffeecm1R7WzR7NX65j6JVu_ys42VMrpvNuNJ2ovRGM8sh9V-MovD8Mbs9NkaYQ_%281%29.jpg?1731664154"
+      }
+    },
+    {
+      "id": "game-stop",
+      "symbol": "gme",
+      "name": "GME (Ethereum)",
+      "base_contract": null,
+      "current_price": 0.00011036,
+      "market_cap": 45391434,
+      "total_volume": 595093,
+      "price_change_24h": 8.46541,
+      "last_updated": "2025-02-08T22:45:19.001Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/37895/large/_GME_New_Logo.png?1733640757",
+        "small": "https://coin-images.coingecko.com/coins/images/37895/large/_GME_New_Logo.png?1733640757",
+        "large": "https://coin-images.coingecko.com/coins/images/37895/large/_GME_New_Logo.png?1733640757"
+      }
+    },
+    {
+      "id": "spx6900",
+      "symbol": "spx",
+      "name": "SPX6900",
+      "base_contract": "0x50da645f148798f68ef2d7db7c1cb22a6819bb2c",
+      "current_price": 0.657565,
+      "market_cap": 612470831,
+      "total_volume": 22381425,
+      "price_change_24h": 13.41421,
+      "last_updated": "2025-02-08T22:45:15.875Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/31401/large/centeredcoin_%281%29.png?1737048493",
+        "small": "https://coin-images.coingecko.com/coins/images/31401/large/centeredcoin_%281%29.png?1737048493",
+        "large": "https://coin-images.coingecko.com/coins/images/31401/large/centeredcoin_%281%29.png?1737048493"
+      }
+    },
+    {
+      "id": "bolt",
+      "symbol": "bolt",
+      "name": "Bolt",
+      "base_contract": null,
+      "current_price": 0.000529,
+      "market_cap": 528472,
+      "total_volume": 680.17,
+      "price_change_24h": -26.01001,
+      "last_updated": "2025-02-08T22:41:39.359Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/4489/large/bolt.png?1696505078",
+        "small": "https://coin-images.coingecko.com/coins/images/4489/large/bolt.png?1696505078",
+        "large": "https://coin-images.coingecko.com/coins/images/4489/large/bolt.png?1696505078"
+      }
+    },
+    {
+      "id": "ragdoll",
+      "symbol": "ragdoll",
+      "name": "Ragdoll",
+      "base_contract": "0xf5e89006cbeff2dabcfda0def5bf45ebe7f8429f",
+      "current_price": 0.0000043,
+      "market_cap": 0,
+      "total_volume": 1084.87,
+      "price_change_24h": 7.52478,
+      "last_updated": "2025-02-08T22:44:05.454Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/51848/large/O0_Ds5Ad_400x400.jpg?1732060576",
+        "small": "https://coin-images.coingecko.com/coins/images/51848/large/O0_Ds5Ad_400x400.jpg?1732060576",
+        "large": "https://coin-images.coingecko.com/coins/images/51848/large/O0_Ds5Ad_400x400.jpg?1732060576"
+      }
+    },
+    {
+      "id": "world-mobile-token",
+      "symbol": "wmtx",
+      "name": "World Mobile Token",
+      "base_contract": "0x3e31966d4f81c72d2a55310a6365a56a4393e98d",
+      "current_price": 0.230418,
+      "market_cap": 157045851,
+      "total_volume": 20669765,
+      "price_change_24h": 0.03058,
+      "last_updated": "2025-02-08T22:45:31.207Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/17333/large/1000097112.png?1727698144",
+        "small": "https://coin-images.coingecko.com/coins/images/17333/large/1000097112.png?1727698144",
+        "large": "https://coin-images.coingecko.com/coins/images/17333/large/1000097112.png?1727698144"
+      }
+    },
+    {
+      "id": "landwolf-0x67",
+      "symbol": "wolf",
+      "name": "LandWolf",
+      "base_contract": null,
+      "current_price": 0.00005156,
+      "market_cap": 46625887,
+      "total_volume": 4621423,
+      "price_change_24h": 32.47675,
+      "last_updated": "2025-02-08T22:45:32.245Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/37403/large/wolf_200x200.png?1715222165",
+        "small": "https://coin-images.coingecko.com/coins/images/37403/large/wolf_200x200.png?1715222165",
+        "large": "https://coin-images.coingecko.com/coins/images/37403/large/wolf_200x200.png?1715222165"
+      }
+    },
+    {
+      "id": "blur",
+      "symbol": "blur",
+      "name": "Blur",
+      "base_contract": null,
+      "current_price": 0.134583,
+      "market_cap": 295001857,
+      "total_volume": 26823391,
+      "price_change_24h": 5.00949,
+      "last_updated": "2025-02-08T22:45:46.214Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/28453/large/blur.png?1696527448",
+        "small": "https://coin-images.coingecko.com/coins/images/28453/large/blur.png?1696527448",
+        "large": "https://coin-images.coingecko.com/coins/images/28453/large/blur.png?1696527448"
+      }
+    },
+    {
+      "id": "bigshortbets",
+      "symbol": "bigsb",
+      "name": "BigShortBets",
+      "base_contract": null,
+      "current_price": 0.266776,
+      "market_cap": 1511391,
+      "total_volume": 87.87,
+      "price_change_24h": null,
+      "last_updated": "2025-02-07T18:52:12.472Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/18235/large/bigsb-token-logo.png?1696517731",
+        "small": "https://coin-images.coingecko.com/coins/images/18235/large/bigsb-token-logo.png?1696517731",
+        "large": "https://coin-images.coingecko.com/coins/images/18235/large/bigsb-token-logo.png?1696517731"
+      }
+    },
+    {
+      "id": "hoppy-meme",
+      "symbol": "hoppy",
+      "name": "Hoppy",
+      "base_contract": null,
+      "current_price": 0.00004574,
+      "market_cap": 19242874,
+      "total_volume": 7139094,
+      "price_change_24h": 9.69334,
+      "last_updated": "2025-02-08T22:46:01.067Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/37197/large/Hoppy_200x200_.png?1724175711",
+        "small": "https://coin-images.coingecko.com/coins/images/37197/large/Hoppy_200x200_.png?1724175711",
+        "large": "https://coin-images.coingecko.com/coins/images/37197/large/Hoppy_200x200_.png?1724175711"
+      }
+    },
+    {
+      "id": "victoria-vr",
+      "symbol": "vr",
+      "name": "Victoria VR",
+      "base_contract": null,
+      "current_price": 0.00669098,
+      "market_cap": 45827093,
+      "total_volume": 23062746,
+      "price_change_24h": 9.70962,
+      "last_updated": "2025-02-08T22:46:00.561Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/21178/large/vr.png?1696520554",
+        "small": "https://coin-images.coingecko.com/coins/images/21178/large/vr.png?1696520554",
+        "large": "https://coin-images.coingecko.com/coins/images/21178/large/vr.png?1696520554"
+      }
+    },
+    {
+      "id": "apetardio",
+      "symbol": "apetardio",
+      "name": "Apetardio",
+      "base_contract": "0xe161be4a74ab8fa8706a2d03e67c02318d0a0ad6",
+      "current_price": 0.0003272,
+      "market_cap": 0,
+      "total_volume": 3814.67,
+      "price_change_24h": 1.36382,
+      "last_updated": "2025-02-08T23:27:47.709Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/38155/large/apetardio200x200.png?1716669062",
+        "small": "https://coin-images.coingecko.com/coins/images/38155/large/apetardio200x200.png?1716669062",
+        "large": "https://coin-images.coingecko.com/coins/images/38155/large/apetardio200x200.png?1716669062"
+      }
+    },
+    {
+      "id": "alfa-romeo-racing-orlen-fan-token",
+      "symbol": "sauber",
+      "name": "Alfa Romeo Racing ORLEN Fan Token",
+      "base_contract": null,
+      "current_price": 0.274547,
+      "market_cap": 764426,
+      "total_volume": 75178,
+      "price_change_24h": -1.57685,
+      "last_updated": "2025-02-08T23:27:46.591Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/16869/large/SAUBER_New.png?1728465707",
+        "small": "https://coin-images.coingecko.com/coins/images/16869/large/SAUBER_New.png?1728465707",
+        "large": "https://coin-images.coingecko.com/coins/images/16869/large/SAUBER_New.png?1728465707"
+      }
+    },
+    {
+      "id": "mojo-meme",
+      "symbol": "mojo",
+      "name": "Mojo Meme",
+      "base_contract": null,
+      "current_price": 0.00001127,
+      "market_cap": 11272.32,
+      "total_volume": 102.1,
+      "price_change_24h": null,
+      "last_updated": "2025-02-01T12:25:08.436Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/50367/large/MOJO2.png?1727370938",
+        "small": "https://coin-images.coingecko.com/coins/images/50367/large/MOJO2.png?1727370938",
+        "large": "https://coin-images.coingecko.com/coins/images/50367/large/MOJO2.png?1727370938"
+      }
+    },
+    {
+      "id": "birb-3",
+      "symbol": "birb",
+      "name": "birb",
+      "base_contract": null,
+      "current_price": 0.00016848,
+      "market_cap": 168243,
+      "total_volume": 405.47,
+      "price_change_24h": 3.45896,
+      "last_updated": "2025-02-08T23:26:00.918Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/35762/large/birb.png?1709748416",
+        "small": "https://coin-images.coingecko.com/coins/images/35762/large/birb.png?1709748416",
+        "large": "https://coin-images.coingecko.com/coins/images/35762/large/birb.png?1709748416"
+      }
+    },
+    {
+      "id": "le-bleu-elefant",
+      "symbol": "bleu",
+      "name": "Le Bleu Elefant",
+      "base_contract": "0xbf4db8b7a679f89ef38125d5f84dd1446af2ea3b",
+      "current_price": 0.0002602,
+      "market_cap": 259972,
+      "total_volume": 1629.86,
+      "price_change_24h": 1.89467,
+      "last_updated": "2025-02-08T23:27:49.998Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/37811/large/b.png?1715597915",
+        "small": "https://coin-images.coingecko.com/coins/images/37811/large/b.png?1715597915",
+        "large": "https://coin-images.coingecko.com/coins/images/37811/large/b.png?1715597915"
+      }
+    },
+    {
+      "id": "pudgy-penguins",
+      "symbol": "pengu",
+      "name": "Pudgy Penguins",
+      "base_contract": null,
+      "current_price": 0.01057139,
+      "market_cap": 663476862,
+      "total_volume": 94220656,
+      "price_change_24h": 5.24065,
+      "last_updated": "2025-02-08T23:28:22.373Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+        "small": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+        "large": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
+      }
+    },
+    {
+      "id": "mickey",
+      "symbol": "mickey",
+      "name": "Mickey",
+      "base_contract": null,
+      "price_change_24h": null,
+      "last_updated": null,
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/35353/large/2132.png?1708360160",
+        "small": "https://coin-images.coingecko.com/coins/images/35353/large/2132.png?1708360160",
+        "large": "https://coin-images.coingecko.com/coins/images/35353/large/2132.png?1708360160"
+      }
+    },
+    {
+      "id": "boys-club",
+      "symbol": "boys",
+      "name": "Boys Club",
+      "base_contract": null,
+      "current_price": 0.00000147,
+      "market_cap": 1467121,
+      "total_volume": 20000,
+      "price_change_24h": 9.48047,
+      "last_updated": "2025-02-08T23:27:52.504Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/53636/large/Coin200.png?1736956240",
+        "small": "https://coin-images.coingecko.com/coins/images/53636/large/Coin200.png?1736956240",
+        "large": "https://coin-images.coingecko.com/coins/images/53636/large/Coin200.png?1736956240"
+      }
+    },
+    {
+      "id": "louder",
+      "symbol": "louder",
+      "name": "LOUDER",
+      "base_contract": "0x120edc8e391ba4c94cb98bb65d8856ae6ec1525f",
+      "current_price": 0.00119316,
+      "market_cap": 0,
+      "total_volume": 129011,
+      "price_change_24h": -0.68062,
+      "last_updated": "2025-02-08T23:28:31.732Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/39495/large/louder_icon_200x200.png?1722539190",
+        "small": "https://coin-images.coingecko.com/coins/images/39495/large/louder_icon_200x200.png?1722539190",
+        "large": "https://coin-images.coingecko.com/coins/images/39495/large/louder_icon_200x200.png?1722539190"
+      }
+    },
+    {
+      "id": "league-of-kingdoms",
+      "symbol": "loka",
+      "name": "League of Kingdoms",
+      "base_contract": null,
+      "current_price": 0.12561,
+      "market_cap": 14421484,
+      "total_volume": 14215624,
+      "price_change_24h": 10.76207,
+      "last_updated": "2025-02-08T23:28:33.481Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/22572/large/loka_64pix.png?1696521891",
+        "small": "https://coin-images.coingecko.com/coins/images/22572/large/loka_64pix.png?1696521891",
+        "large": "https://coin-images.coingecko.com/coins/images/22572/large/loka_64pix.png?1696521891"
+      }
+    },
+    {
+      "id": "bandit",
+      "symbol": "bandit",
+      "name": "BANDIT",
+      "base_contract": null,
+      "current_price": 0.050613,
+      "market_cap": 344773,
+      "total_volume": 61308,
+      "price_change_24h": null,
+      "last_updated": "2025-02-03T10:54:26.825Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/53079/large/bandit_favicon.png?1735201283",
+        "small": "https://coin-images.coingecko.com/coins/images/53079/large/bandit_favicon.png?1735201283",
+        "large": "https://coin-images.coingecko.com/coins/images/53079/large/bandit_favicon.png?1735201283"
+      }
+    },
+    {
+      "id": "basedai",
+      "symbol": "basedai",
+      "name": "BasedAI",
+      "base_contract": null,
+      "current_price": 1.44,
+      "market_cap": 51348185,
+      "total_volume": 742646,
+      "price_change_24h": 6.27765,
+      "last_updated": "2025-02-08T23:28:37.272Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/36607/large/1000004475.png?1711964332",
+        "small": "https://coin-images.coingecko.com/coins/images/36607/large/1000004475.png?1711964332",
+        "large": "https://coin-images.coingecko.com/coins/images/36607/large/1000004475.png?1711964332"
+      }
+    },
+    {
+      "id": "chinese-brett",
+      "symbol": "chrett",
+      "name": "Chinese Brett",
+      "base_contract": "0xf8a99f2bf2ce5bb6ce4aafcf070d8723bc904aa2",
+      "current_price": 0.00021682,
+      "market_cap": 0,
+      "total_volume": 48.18,
+      "price_change_24h": -0.12411,
+      "last_updated": "2025-02-08T23:28:06.484Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/38541/large/GNQP9A7WwAIcolJ_%282%29.png?1717926712",
+        "small": "https://coin-images.coingecko.com/coins/images/38541/large/GNQP9A7WwAIcolJ_%282%29.png?1717926712",
+        "large": "https://coin-images.coingecko.com/coins/images/38541/large/GNQP9A7WwAIcolJ_%282%29.png?1717926712"
+      }
+    },
+    {
+      "id": "kogin-by-virtuals",
+      "symbol": "kogin",
+      "name": "Kogin by Virtuals",
+      "base_contract": "0x2941d526e22406c5d6f273e281899cfc042a7332",
+      "current_price": 0.00020836,
+      "market_cap": 192244,
+      "total_volume": 1161.25,
+      "price_change_24h": 10.07731,
+      "last_updated": "2025-02-08T23:19:25.058Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/52787/large/OIG4.png?1734291387",
+        "small": "https://coin-images.coingecko.com/coins/images/52787/large/OIG4.png?1734291387",
+        "large": "https://coin-images.coingecko.com/coins/images/52787/large/OIG4.png?1734291387"
+      }
+    },
+    {
+      "id": "based-beast-coin",
+      "symbol": "beast",
+      "name": "Based Beast Coin",
+      "base_contract": "0x82aed68f1deaca2b2aa4c5f27276374228a9f923",
+      "current_price": 0.02041601,
+      "market_cap": 204558,
+      "total_volume": 2001.81,
+      "price_change_24h": -5.07079,
+      "last_updated": "2025-02-08T23:28:06.160Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/51121/large/IMG_7914.png?1730164559",
+        "small": "https://coin-images.coingecko.com/coins/images/51121/large/IMG_7914.png?1730164559",
+        "large": "https://coin-images.coingecko.com/coins/images/51121/large/IMG_7914.png?1730164559"
+      }
+    },
+    {
+      "id": "bitcoin",
+      "symbol": "btc",
+      "name": "Bitcoin",
+      "base_contract": null,
+      "current_price": 96604,
+      "market_cap": 1914965999252,
+      "total_volume": 18885138068,
+      "price_change_24h": 0.37507,
+      "last_updated": "2025-02-08T23:28:14.101Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+        "small": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+        "large": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
+      }
+    },
+    {
+      "id": "basehoundbot-by-virtuals",
+      "symbol": "$hound",
+      "name": "BaseHoundBot by Virtuals",
+      "base_contract": "0xccdf2cbabfa37878125ab2d20bfcb9328b7ab3cf",
+      "current_price": 0.00018798,
+      "market_cap": 169368,
+      "total_volume": 1749.1,
+      "price_change_24h": 0.96187,
+      "last_updated": "2025-02-08T23:27:41.497Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/53384/large/basehoundlogo.png?1736274597",
+        "small": "https://coin-images.coingecko.com/coins/images/53384/large/basehoundlogo.png?1736274597",
+        "large": "https://coin-images.coingecko.com/coins/images/53384/large/basehoundlogo.png?1736274597"
+      }
+    },
+    {
+      "id": "bald-world-order",
+      "symbol": "bald",
+      "name": "Bald World Order",
+      "base_contract": null,
+      "current_price": 0.00001874,
+      "market_cap": 18740.74,
+      "total_volume": 102.45,
+      "price_change_24h": 4.21967,
+      "last_updated": "2025-02-08T23:19:52.199Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/52518/large/coreymatrix_%282%29.png?1733501513",
+        "small": "https://coin-images.coingecko.com/coins/images/52518/large/coreymatrix_%282%29.png?1733501513",
+        "large": "https://coin-images.coingecko.com/coins/images/52518/large/coreymatrix_%282%29.png?1733501513"
+      }
+    },
+    {
+      "id": "sacabam",
+      "symbol": "scb",
+      "name": "Sacabam",
+      "base_contract": null,
+      "current_price": 7.899e-9,
+      "market_cap": 315569,
+      "total_volume": 1479.02,
+      "price_change_24h": 0.79058,
+      "last_updated": "2025-02-08T23:17:12.950Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/33497/large/logo_scb.png?1702035651",
+        "small": "https://coin-images.coingecko.com/coins/images/33497/large/logo_scb.png?1702035651",
+        "large": "https://coin-images.coingecko.com/coins/images/33497/large/logo_scb.png?1702035651"
+      }
+    },
+    {
+      "id": "misser",
+      "symbol": "misser",
+      "name": "Misser",
+      "base_contract": "0x0718f45bbf4781ce891e4e18182f025725f0fc95",
+      "current_price": 0.00018908,
+      "market_cap": 0,
+      "total_volume": 1325.68,
+      "price_change_24h": 6.54749,
+      "last_updated": "2025-02-08T23:27:31.954Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/39315/large/misser_pic.png?1721707572",
+        "small": "https://coin-images.coingecko.com/coins/images/39315/large/misser_pic.png?1721707572",
+        "large": "https://coin-images.coingecko.com/coins/images/39315/large/misser_pic.png?1721707572"
+      }
+    },
+    {
+      "id": "cat-poop-joystick",
+      "symbol": "n64",
+      "name": "Cat Poop Joystick",
+      "base_contract": null,
+      "current_price": 0.00002236,
+      "market_cap": 22357,
+      "total_volume": 458.38,
+      "price_change_24h": null,
+      "last_updated": "2025-02-07T18:00:53.108Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/39561/large/n64.jpg?1722924100",
+        "small": "https://coin-images.coingecko.com/coins/images/39561/large/n64.jpg?1722924100",
+        "large": "https://coin-images.coingecko.com/coins/images/39561/large/n64.jpg?1722924100"
+      }
+    },
+    {
+      "id": "balto",
+      "symbol": "balto",
+      "name": "BALTO",
+      "base_contract": null,
+      "current_price": 5.8313e-7,
+      "market_cap": 209353,
+      "total_volume": 759.86,
+      "price_change_24h": -3.85271,
+      "last_updated": "2025-02-08T23:24:41.614Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/51952/large/X_200.png?1732221678",
+        "small": "https://coin-images.coingecko.com/coins/images/51952/large/X_200.png?1732221678",
+        "large": "https://coin-images.coingecko.com/coins/images/51952/large/X_200.png?1732221678"
+      }
+    },
+    {
+      "id": "siamese",
+      "symbol": "siam",
+      "name": "Siamese",
+      "base_contract": "0xba71cb8ef2d59de7399745793657838829e0b147",
+      "current_price": 1.853e-9,
+      "market_cap": 0,
+      "total_volume": 1164.47,
+      "price_change_24h": 1.59804,
+      "last_updated": "2025-02-08T23:27:46.900Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/36489/large/transparant-200x200.png?1728005931",
+        "small": "https://coin-images.coingecko.com/coins/images/36489/large/transparant-200x200.png?1728005931",
+        "large": "https://coin-images.coingecko.com/coins/images/36489/large/transparant-200x200.png?1728005931"
+      }
+    },
+    {
+      "id": "cyberfi",
+      "symbol": "cfi",
+      "name": "CyberFi",
+      "base_contract": null,
+      "current_price": 0.139503,
+      "market_cap": 227373,
+      "total_volume": 35224,
+      "price_change_24h": 14.96047,
+      "last_updated": "2025-02-08T23:28:41.779Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/13112/large/cyberfi_logo.jpeg?1696512897",
+        "small": "https://coin-images.coingecko.com/coins/images/13112/large/cyberfi_logo.jpeg?1696512897",
+        "large": "https://coin-images.coingecko.com/coins/images/13112/large/cyberfi_logo.jpeg?1696512897"
+      }
+    },
+    {
+      "id": "workie",
+      "symbol": "workie",
+      "name": "Workie",
+      "base_contract": "0x7480527815ccae421400da01e052b120cc4255e9",
+      "current_price": 0.0001763,
+      "market_cap": 176299,
+      "total_volume": 552.35,
+      "price_change_24h": -0.4625,
+      "last_updated": "2025-02-08T23:17:28.613Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/38774/large/Pfp2_%281%29.png?1724903016",
+        "small": "https://coin-images.coingecko.com/coins/images/38774/large/Pfp2_%281%29.png?1724903016",
+        "large": "https://coin-images.coingecko.com/coins/images/38774/large/Pfp2_%281%29.png?1724903016"
+      }
+    },
+    {
+      "id": "rekt-burgundy-by-virtuals",
+      "symbol": "mxnbc",
+      "name": "Rekt Burgundy by Virtuals",
+      "base_contract": "0x84993768ba82ebc6101a5440ea41be41310ea12f",
+      "current_price": 0.0001676,
+      "market_cap": 121693,
+      "total_volume": 831.35,
+      "price_change_24h": 6.42293,
+      "last_updated": "2025-02-08T23:00:20.481Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/53362/large/icon200200.jpg?1736194452",
+        "small": "https://coin-images.coingecko.com/coins/images/53362/large/icon200200.jpg?1736194452",
+        "large": "https://coin-images.coingecko.com/coins/images/53362/large/icon200200.jpg?1736194452"
+      }
+    },
+    {
+      "id": "brett-2-0",
+      "symbol": "brett2.0",
+      "name": "Brett 2.0",
+      "base_contract": "0x885129e35d247b01c4485ef6b48564d0ebc8c362",
+      "current_price": 0.0001509,
+      "market_cap": 131586,
+      "total_volume": 120831,
+      "price_change_24h": -18.99201,
+      "last_updated": "2025-02-08T23:29:21.930Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/37121/large/brett200-modified.png?1713366621",
+        "small": "https://coin-images.coingecko.com/coins/images/37121/large/brett200-modified.png?1713366621",
+        "large": "https://coin-images.coingecko.com/coins/images/37121/large/brett200-modified.png?1713366621"
+      }
+    },
+    {
+      "id": "based-lambow",
+      "symbol": "lambow",
+      "name": "Based Lambow",
+      "base_contract": "0x4b61e2f1bbdee6d746209a693156952936f1702c",
+      "current_price": 0.00014993,
+      "market_cap": 149932,
+      "total_volume": 339.03,
+      "price_change_24h": 2.66877,
+      "last_updated": "2025-02-08T23:18:35.133Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/38690/large/new-logo.jpg?1731187032",
+        "small": "https://coin-images.coingecko.com/coins/images/38690/large/new-logo.jpg?1731187032",
+        "large": "https://coin-images.coingecko.com/coins/images/38690/large/new-logo.jpg?1731187032"
+      }
+    },
+    {
+      "id": "based-shiba-inu",
+      "symbol": "bshib",
+      "name": "Based Shiba Inu",
+      "base_contract": "0xfea9dcdc9e23a9068bf557ad5b186675c61d33ea",
+      "current_price": 0.00001487,
+      "market_cap": 0,
+      "total_volume": 471.66,
+      "price_change_24h": 1.26863,
+      "last_updated": "2025-02-08T23:27:05.465Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/36092/large/logocg.png?1710478223",
+        "small": "https://coin-images.coingecko.com/coins/images/36092/large/logocg.png?1710478223",
+        "large": "https://coin-images.coingecko.com/coins/images/36092/large/logocg.png?1710478223"
+      }
+    },
+    {
+      "id": "bird-dog",
+      "symbol": "birddog",
+      "name": "Bird Dog",
+      "base_contract": null,
+      "current_price": 0.00000665,
+      "market_cap": 2799340,
+      "total_volume": 45042,
+      "price_change_24h": -0.92394,
+      "last_updated": "2025-02-08T23:27:03.213Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/36707/large/photo_2024-04-17_01-49-44.jpg?1713382145",
+        "small": "https://coin-images.coingecko.com/coins/images/36707/large/photo_2024-04-17_01-49-44.jpg?1713382145",
+        "large": "https://coin-images.coingecko.com/coins/images/36707/large/photo_2024-04-17_01-49-44.jpg?1713382145"
+      }
+    },
+    {
+      "id": "britto-2",
+      "symbol": "britto",
+      "name": "BRITTO",
+      "base_contract": null,
+      "current_price": 0.00008205,
+      "market_cap": 820511,
+      "total_volume": 126891,
+      "price_change_24h": 0.40754,
+      "last_updated": "2025-02-08T23:28:08.553Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/52555/large/ahbritto.293x293_400x400.png?1733661883",
+        "small": "https://coin-images.coingecko.com/coins/images/52555/large/ahbritto.293x293_400x400.png?1733661883",
+        "large": "https://coin-images.coingecko.com/coins/images/52555/large/ahbritto.293x293_400x400.png?1733661883"
+      }
+    },
+    {
+      "id": "peachfolio",
+      "symbol": "pchf",
+      "name": "Peachfolio",
+      "base_contract": null,
+      "current_price": 0.00016556,
+      "market_cap": 44145,
+      "total_volume": 3.2,
+      "price_change_24h": null,
+      "last_updated": "2025-02-05T09:06:23.246Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/16529/large/7d578071-601e-4ef6-9a98-cc7984b258c4.png?1696516092",
+        "small": "https://coin-images.coingecko.com/coins/images/16529/large/7d578071-601e-4ef6-9a98-cc7984b258c4.png?1696516092",
+        "large": "https://coin-images.coingecko.com/coins/images/16529/large/7d578071-601e-4ef6-9a98-cc7984b258c4.png?1696516092"
+      }
+    },
+    {
+      "id": "base-lord",
+      "symbol": "lordy",
+      "name": "Lordy",
+      "base_contract": "0xe388a9a5bfd958106adeb79df10084a8b1d9a5ab",
+      "current_price": 0.0001164,
+      "market_cap": 0,
+      "total_volume": 2203.54,
+      "price_change_24h": 2.43526,
+      "last_updated": "2025-02-08T23:16:41.737Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/37273/large/LORDY_Token_CG.jpg?1727976587",
+        "small": "https://coin-images.coingecko.com/coins/images/37273/large/LORDY_Token_CG.jpg?1727976587",
+        "large": "https://coin-images.coingecko.com/coins/images/37273/large/LORDY_Token_CG.jpg?1727976587"
+      }
+    },
+    {
+      "id": "coinbase-wrapped-btc",
+      "symbol": "cbbtc",
+      "name": "Coinbase Wrapped BTC",
+      "base_contract": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+      "current_price": 96548,
+      "market_cap": 2387635413,
+      "total_volume": 214006920,
+      "price_change_24h": 0.3349,
+      "last_updated": "2025-02-08T23:30:12.536Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/40143/large/cbbtc.webp?1726136727",
+        "small": "https://coin-images.coingecko.com/coins/images/40143/large/cbbtc.webp?1726136727",
+        "large": "https://coin-images.coingecko.com/coins/images/40143/large/cbbtc.webp?1726136727"
+      }
+    },
+    {
+      "id": "peepo-eth",
+      "symbol": "pepo",
+      "name": "Peepo",
+      "base_contract": null,
+      "current_price": 0.00000173,
+      "market_cap": 724409,
+      "total_volume": 722.83,
+      "price_change_24h": 1.43764,
+      "last_updated": "2025-02-08T23:28:21.273Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/38502/large/CG_Logo_F.png?1718635039",
+        "small": "https://coin-images.coingecko.com/coins/images/38502/large/CG_Logo_F.png?1718635039",
+        "large": "https://coin-images.coingecko.com/coins/images/38502/large/CG_Logo_F.png?1718635039"
+      }
+    },
+    {
+      "id": "blockchainpeople",
+      "symbol": "bcp",
+      "name": "BlockChainPeople",
+      "base_contract": "0x87c211144b1d9bdaa5a791b8099ea4123dc31d21",
+      "current_price": 0.00508636,
+      "market_cap": 106826,
+      "total_volume": 2532.15,
+      "price_change_24h": 4.42075,
+      "last_updated": "2025-02-08T23:29:02.013Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/38085/large/200x200.png?1716477512",
+        "small": "https://coin-images.coingecko.com/coins/images/38085/large/200x200.png?1716477512",
+        "large": "https://coin-images.coingecko.com/coins/images/38085/large/200x200.png?1716477512"
+      }
+    },
+    {
+      "id": "popcat",
+      "symbol": "popcat",
+      "name": "Popcat",
+      "base_contract": null,
+      "current_price": 0.281718,
+      "market_cap": 275631551,
+      "total_volume": 129219308,
+      "price_change_24h": 31.75729,
+      "last_updated": "2025-02-08T23:30:37.595Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/33760/large/image.jpg?1702964227",
+        "small": "https://coin-images.coingecko.com/coins/images/33760/large/image.jpg?1702964227",
+        "large": "https://coin-images.coingecko.com/coins/images/33760/large/image.jpg?1702964227"
+      }
+    },
+    {
+      "id": "fomo-3",
+      "symbol": "fomo",
+      "name": "FOMO",
+      "base_contract": null,
+      "current_price": 0.0000672,
+      "market_cap": 6719634,
+      "total_volume": 820025,
+      "price_change_24h": -12.63752,
+      "last_updated": "2025-02-08T23:29:34.264Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/52987/large/fomo.png?1734921088",
+        "small": "https://coin-images.coingecko.com/coins/images/52987/large/fomo.png?1734921088",
+        "large": "https://coin-images.coingecko.com/coins/images/52987/large/fomo.png?1734921088"
+      }
+    },
+    {
+      "id": "anti-rug-agent",
+      "symbol": "antirug",
+      "name": "Anti Rug Agent",
+      "base_contract": null,
+      "current_price": 0.00264388,
+      "market_cap": 2642082,
+      "total_volume": 100270,
+      "price_change_24h": -2.76813,
+      "last_updated": "2025-02-08T23:30:47.661Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/53308/large/IMG_0239.jpeg?1736066656",
+        "small": "https://coin-images.coingecko.com/coins/images/53308/large/IMG_0239.jpeg?1736066656",
+        "large": "https://coin-images.coingecko.com/coins/images/53308/large/IMG_0239.jpeg?1736066656"
+      }
+    },
+    {
+      "id": "edge-video-ai",
+      "symbol": "fast",
+      "name": "Edge Video AI",
+      "base_contract": null,
+      "current_price": 0.00349863,
+      "market_cap": 0,
+      "total_volume": 35589,
+      "price_change_24h": 1.54993,
+      "last_updated": "2025-02-08T23:29:01.414Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/37610/large/Transparent_1.png?1718412023",
+        "small": "https://coin-images.coingecko.com/coins/images/37610/large/Transparent_1.png?1718412023",
+        "large": "https://coin-images.coingecko.com/coins/images/37610/large/Transparent_1.png?1718412023"
+      }
+    },
+    {
+      "id": "froggies-token-2",
+      "symbol": "frgst",
+      "name": "Froggies",
+      "base_contract": null,
+      "current_price": 1.176e-9,
+      "market_cap": 37522,
+      "total_volume": 1.22,
+      "price_change_24h": 4.44452,
+      "last_updated": "2025-02-08T23:25:50.762Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/30575/large/bAwE66My_400x400.jpg?1696529440",
+        "small": "https://coin-images.coingecko.com/coins/images/30575/large/bAwE66My_400x400.jpg?1696529440",
+        "large": "https://coin-images.coingecko.com/coins/images/30575/large/bAwE66My_400x400.jpg?1696529440"
+      }
+    },
+    {
+      "id": "higher",
+      "symbol": "higher",
+      "name": "higher",
+      "base_contract": "0x0578d8a44db98b23bf096a382e016e29a5ce0ffe",
+      "current_price": 0.00652082,
+      "market_cap": 6546663,
+      "total_volume": 386075,
+      "price_change_24h": -14.78381,
+      "last_updated": "2025-02-08T23:30:08.029Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/36084/large/200x200logo.png?1710427814",
+        "small": "https://coin-images.coingecko.com/coins/images/36084/large/200x200logo.png?1710427814",
+        "large": "https://coin-images.coingecko.com/coins/images/36084/large/200x200logo.png?1710427814"
+      }
+    },
+    {
+      "id": "based-street-bets",
+      "symbol": "bsb",
+      "name": "Based Street Bets",
+      "base_contract": "0x8a24d7260cd02d3dfd8eefb66bc17ad4b17d494c",
+      "current_price": 8.44758e-7,
+      "market_cap": 0,
+      "total_volume": 2294.04,
+      "price_change_24h": -18.00755,
+      "last_updated": "2025-02-08T23:28:00.342Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/36558/large/Logo_BSB.png?1711902137",
+        "small": "https://coin-images.coingecko.com/coins/images/36558/large/Logo_BSB.png?1711902137",
+        "large": "https://coin-images.coingecko.com/coins/images/36558/large/Logo_BSB.png?1711902137"
+      }
+    },
+    {
+      "id": "riku",
+      "symbol": "riku",
+      "name": "RIKU",
+      "base_contract": "0xd1412d909f67b8db7505ddfcf26cf2303f4b1bb4",
+      "current_price": 8.1444e-8,
+      "market_cap": 40410,
+      "total_volume": 745.31,
+      "price_change_24h": 4.1461,
+      "last_updated": "2025-02-08T23:28:41.272Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/35924/large/riku.jpeg?1710224102",
+        "small": "https://coin-images.coingecko.com/coins/images/35924/large/riku.jpeg?1710224102",
+        "large": "https://coin-images.coingecko.com/coins/images/35924/large/riku.jpeg?1710224102"
+      }
+    },
+    {
+      "id": "kevin-2",
+      "symbol": "kevin",
+      "name": "Kevin",
+      "base_contract": null,
+      "price_change_24h": null,
+      "last_updated": null,
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/34918/large/logo_Kevin.JPG?1706614039",
+        "small": "https://coin-images.coingecko.com/coins/images/34918/large/logo_Kevin.JPG?1706614039",
+        "large": "https://coin-images.coingecko.com/coins/images/34918/large/logo_Kevin.JPG?1706614039"
+      }
+    },
+    {
+      "id": "rocket-pool-eth",
+      "symbol": "reth",
+      "name": "Rocket Pool ETH",
+      "base_contract": "0xb6fe221fe9eef5aba221c348ba20a1bf5e73624c",
+      "current_price": 2957.9,
+      "market_cap": 1331084612,
+      "total_volume": 16550635,
+      "price_change_24h": 1.33467,
+      "last_updated": "2025-02-08T23:35:31.854Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/20764/large/reth.png?1696520159",
+        "small": "https://coin-images.coingecko.com/coins/images/20764/large/reth.png?1696520159",
+        "large": "https://coin-images.coingecko.com/coins/images/20764/large/reth.png?1696520159"
+      }
+    },
+    {
+      "id": "butthole-coin",
+      "symbol": "butthole",
+      "name": "Butthole Coin",
+      "base_contract": null,
+      "current_price": 0.02411102,
+      "market_cap": 24111112,
+      "total_volume": 3947575,
+      "price_change_24h": 8.39727,
+      "last_updated": "2025-02-08T23:35:36.569Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/53183/large/1000281355.jpg?1735563013",
+        "small": "https://coin-images.coingecko.com/coins/images/53183/large/1000281355.jpg?1735563013",
+        "large": "https://coin-images.coingecko.com/coins/images/53183/large/1000281355.jpg?1735563013"
+      }
+    },
+    {
+      "id": "polaris-share",
+      "symbol": "pola",
+      "name": "Polaris Share",
+      "base_contract": null,
+      "current_price": 0.02075918,
+      "market_cap": 10280941,
+      "total_volume": 93239,
+      "price_change_24h": 1.1727,
+      "last_updated": "2025-02-08T23:35:30.953Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/13817/large/tHQrxdYQ_400x400.png?1696513563",
+        "small": "https://coin-images.coingecko.com/coins/images/13817/large/tHQrxdYQ_400x400.png?1696513563",
+        "large": "https://coin-images.coingecko.com/coins/images/13817/large/tHQrxdYQ_400x400.png?1696513563"
+      }
+    },
+    {
+      "id": "bbqcoin",
+      "symbol": "bbq",
+      "name": "BBQCOIN",
+      "base_contract": null,
+      "current_price": 0.02553089,
+      "market_cap": 0,
+      "total_volume": 127446,
+      "price_change_24h": 2.59693,
+      "last_updated": "2025-02-08T23:34:54.824Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/51348/large/MJZ74qGI_400x400.jpg?1730838415",
+        "small": "https://coin-images.coingecko.com/coins/images/51348/large/MJZ74qGI_400x400.jpg?1730838415",
+        "large": "https://coin-images.coingecko.com/coins/images/51348/large/MJZ74qGI_400x400.jpg?1730838415"
+      }
+    },
+    {
+      "id": "thrupenny",
+      "symbol": "tpy",
+      "name": "Thrupenny",
+      "base_contract": null,
+      "current_price": 0.0030009,
+      "market_cap": 0,
+      "total_volume": 204.63,
+      "price_change_24h": -0.00864,
+      "last_updated": "2025-02-08T23:32:32.175Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/26799/large/rsz_1mpmojfho_400x400.png?1696525861",
+        "small": "https://coin-images.coingecko.com/coins/images/26799/large/rsz_1mpmojfho_400x400.png?1696525861",
+        "large": "https://coin-images.coingecko.com/coins/images/26799/large/rsz_1mpmojfho_400x400.png?1696525861"
+      }
+    },
+    {
+      "id": "baby-brett-on-base",
+      "symbol": "bbrett",
+      "name": "Baby Brett on Base",
+      "base_contract": "0xbe5614875952b1683cb0a2c20e6509be46d353a4",
+      "current_price": 0.00058275,
+      "market_cap": 0,
+      "total_volume": 311.33,
+      "price_change_24h": 1.45935,
+      "last_updated": "2025-02-08T23:28:06.977Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/38887/large/200x200.png?1719380024",
+        "small": "https://coin-images.coingecko.com/coins/images/38887/large/200x200.png?1719380024",
+        "large": "https://coin-images.coingecko.com/coins/images/38887/large/200x200.png?1719380024"
+      }
+    },
+    {
+      "id": "dook",
+      "symbol": "dook",
+      "name": "Dook",
+      "base_contract": "0x461ee40928677644b8195662ab91bcdaae6ef105",
+      "current_price": 1.33853e-10,
+      "market_cap": 0,
+      "total_volume": 217.48,
+      "price_change_24h": 3.42305,
+      "last_updated": "2025-02-08T23:28:06.423Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/38594/large/P3oYXNbf_400x400.jpeg?1718927359",
+        "small": "https://coin-images.coingecko.com/coins/images/38594/large/P3oYXNbf_400x400.jpeg?1718927359",
+        "large": "https://coin-images.coingecko.com/coins/images/38594/large/P3oYXNbf_400x400.jpeg?1718927359"
+      }
+    },
+    {
+      "id": "moonrabbits",
+      "symbol": "mrb",
+      "name": "MoonRabbits",
+      "base_contract": null,
+      "current_price": 0.00004678,
+      "market_cap": 29692907,
+      "total_volume": 54169,
+      "price_change_24h": null,
+      "last_updated": "2024-12-20T17:04:21.605Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/52273/large/MoonRabbits_icon_resized.png?1732884884",
+        "small": "https://coin-images.coingecko.com/coins/images/52273/large/MoonRabbits_icon_resized.png?1732884884",
+        "large": "https://coin-images.coingecko.com/coins/images/52273/large/MoonRabbits_icon_resized.png?1732884884"
+      }
+    },
+    {
+      "id": "daddy-tate",
+      "symbol": "daddy",
+      "name": "Daddy Tate",
+      "base_contract": null,
+      "current_price": 0.03439374,
+      "market_cap": 20630082,
+      "total_volume": 1477378,
+      "price_change_24h": 1.40458,
+      "last_updated": "2025-02-08T23:36:03.901Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/38684/large/DADDY_TATE.png?1718336003",
+        "small": "https://coin-images.coingecko.com/coins/images/38684/large/DADDY_TATE.png?1718336003",
+        "large": "https://coin-images.coingecko.com/coins/images/38684/large/DADDY_TATE.png?1718336003"
+      }
+    },
+    {
+      "id": "lazycat",
+      "symbol": "lazycat",
+      "name": "LazyCat",
+      "base_contract": "0x41ed891897117450adbd710006855b12f98cb86b",
+      "current_price": 0.00005997,
+      "market_cap": 0,
+      "total_volume": 1872.63,
+      "price_change_24h": null,
+      "last_updated": "2025-01-23T09:16:50.729Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/40029/large/LAZYCAT.jpg?1725360523",
+        "small": "https://coin-images.coingecko.com/coins/images/40029/large/LAZYCAT.jpg?1725360523",
+        "large": "https://coin-images.coingecko.com/coins/images/40029/large/LAZYCAT.jpg?1725360523"
+      }
+    },
+    {
+      "id": "derpman",
+      "symbol": "derp",
+      "name": "DERPMAN",
+      "base_contract": null,
+      "current_price": 0.00003341,
+      "market_cap": 33367,
+      "total_volume": 2.11,
+      "price_change_24h": null,
+      "last_updated": "2025-02-07T06:16:47.816Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/50851/large/photo_2024-10-17_19.39.37_%281%29.jpeg?1729300508",
+        "small": "https://coin-images.coingecko.com/coins/images/50851/large/photo_2024-10-17_19.39.37_%281%29.jpeg?1729300508",
+        "large": "https://coin-images.coingecko.com/coins/images/50851/large/photo_2024-10-17_19.39.37_%281%29.jpeg?1729300508"
+      }
+    },
+    {
+      "id": "department-of-government-efficiency-3",
+      "symbol": "d.o.g.e",
+      "name": "Department Of Government Efficiency",
+      "base_contract": null,
+      "current_price": 0.00000197,
+      "market_cap": 197393,
+      "total_volume": 1287.31,
+      "price_change_24h": -4.10125,
+      "last_updated": "2025-02-08T23:33:14.762Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/50452/large/Department_Of_Government_Efficiency.png?1727773104",
+        "small": "https://coin-images.coingecko.com/coins/images/50452/large/Department_Of_Government_Efficiency.png?1727773104",
+        "large": "https://coin-images.coingecko.com/coins/images/50452/large/Department_Of_Government_Efficiency.png?1727773104"
+      }
+    },
+    {
+      "id": "dogesquatch",
+      "symbol": "squoge",
+      "name": "DogeSquatch",
+      "base_contract": "0x589c8e8fe013133b41abf546c819787a75688690",
+      "current_price": 0.00111479,
+      "market_cap": 0,
+      "total_volume": 20.64,
+      "price_change_24h": 1.23022,
+      "last_updated": "2025-02-08T23:32:49.051Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/38159/large/Dogesquatch_200x200.png?1716673551",
+        "small": "https://coin-images.coingecko.com/coins/images/38159/large/Dogesquatch_200x200.png?1716673551",
+        "large": "https://coin-images.coingecko.com/coins/images/38159/large/Dogesquatch_200x200.png?1716673551"
+      }
+    },
+    {
+      "id": "goodle",
+      "symbol": "$goodle",
+      "name": "Goodle",
+      "base_contract": "0x9f235d23354857efe6c541db92a9ef1877689bcb",
+      "current_price": 4.57119e-7,
+      "market_cap": 35473,
+      "total_volume": 136936,
+      "price_change_24h": 0.89497,
+      "last_updated": "2025-02-08T23:35:17.043Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/39688/large/Screenshot_2024-07-26_at_5.38.55_PM-removebg-preview.png?1723660779",
+        "small": "https://coin-images.coingecko.com/coins/images/39688/large/Screenshot_2024-07-26_at_5.38.55_PM-removebg-preview.png?1723660779",
+        "large": "https://coin-images.coingecko.com/coins/images/39688/large/Screenshot_2024-07-26_at_5.38.55_PM-removebg-preview.png?1723660779"
+      }
+    },
+    {
+      "id": "ski-mask-pup",
+      "symbol": "skipup",
+      "name": "SKI MASK PUP",
+      "base_contract": "0x4e73420dcc85702ea134d91a262c8ffc0a72aa70",
+      "current_price": 0.04295361,
+      "market_cap": 0,
+      "total_volume": 35.6,
+      "price_change_24h": 0.98352,
+      "last_updated": "2025-02-08T23:24:13.397Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/38093/large/SkiPup_Logo.png?1716486539",
+        "small": "https://coin-images.coingecko.com/coins/images/38093/large/SkiPup_Logo.png?1716486539",
+        "large": "https://coin-images.coingecko.com/coins/images/38093/large/SkiPup_Logo.png?1716486539"
+      }
+    },
+    {
+      "id": "normus",
+      "symbol": "normus",
+      "name": "Normus",
+      "base_contract": "0xba5ede8d98ab88cea9f0d69918dde28dc23c2553",
+      "current_price": 0.00004172,
+      "market_cap": 0,
+      "total_volume": 36.21,
+      "price_change_24h": 1.06784,
+      "last_updated": "2025-02-08T23:32:28.122Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/38595/large/token-removebg-preview_%281%29.png?1718094574",
+        "small": "https://coin-images.coingecko.com/coins/images/38595/large/token-removebg-preview_%281%29.png?1718094574",
+        "large": "https://coin-images.coingecko.com/coins/images/38595/large/token-removebg-preview_%281%29.png?1718094574"
+      }
+    },
+    {
+      "id": "babyboomtoken",
+      "symbol": "bbt",
+      "name": "BabyBoomToken",
+      "base_contract": null,
+      "current_price": 0.076034,
+      "market_cap": 12640238,
+      "total_volume": 75828,
+      "price_change_24h": 2.29803,
+      "last_updated": "2025-02-08T23:36:33.160Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/50996/large/BabyBoomToken_logo.png?1729675164",
+        "small": "https://coin-images.coingecko.com/coins/images/50996/large/BabyBoomToken_logo.png?1729675164",
+        "large": "https://coin-images.coingecko.com/coins/images/50996/large/BabyBoomToken_logo.png?1729675164"
+      }
+    },
+    {
+      "id": "jasse-polluk",
+      "symbol": "polluk",
+      "name": "Jasse Polluk",
+      "base_contract": "0x22222bd682745cf032006394750739684e45a5f8",
+      "current_price": 0.00003923,
+      "market_cap": 0,
+      "total_volume": 2131.44,
+      "price_change_24h": -10.07971,
+      "last_updated": "2025-02-08T23:24:15.266Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/38510/large/Jasse_Polluk.png?1717754036",
+        "small": "https://coin-images.coingecko.com/coins/images/38510/large/Jasse_Polluk.png?1717754036",
+        "large": "https://coin-images.coingecko.com/coins/images/38510/large/Jasse_Polluk.png?1717754036"
+      }
+    },
+    {
+      "id": "wazirx",
+      "symbol": "wrx",
+      "name": "WazirX",
+      "base_contract": null,
+      "current_price": 0.02456949,
+      "market_cap": 11221473,
+      "total_volume": 14448.18,
+      "price_change_24h": -4.27074,
+      "last_updated": "2025-02-08T23:36:43.763Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/10547/large/WazirX.png?1696510532",
+        "small": "https://coin-images.coingecko.com/coins/images/10547/large/WazirX.png?1696510532",
+        "large": "https://coin-images.coingecko.com/coins/images/10547/large/WazirX.png?1696510532"
+      }
+    },
+    {
+      "id": "chinese-toshi",
+      "symbol": "ctoshi",
+      "name": "Chinese Toshi",
+      "base_contract": "0x28a730de97dc62a8c88363e0b1049056f1274a70",
+      "current_price": 0.00003101,
+      "market_cap": 0,
+      "total_volume": 348.86,
+      "price_change_24h": -7.07055,
+      "last_updated": "2025-02-08T23:28:06.575Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/38635/large/231_%28Custom%29_%283%29.png?1718173956",
+        "small": "https://coin-images.coingecko.com/coins/images/38635/large/231_%28Custom%29_%283%29.png?1718173956",
+        "large": "https://coin-images.coingecko.com/coins/images/38635/large/231_%28Custom%29_%283%29.png?1718173956"
+      }
+    },
+    {
+      "id": "gmx",
+      "symbol": "gmx",
+      "name": "GMX",
+      "base_contract": null,
+      "current_price": 20.31,
+      "market_cap": 201957160,
+      "total_volume": 53831510,
+      "price_change_24h": 22.96417,
+      "last_updated": "2025-02-08T23:35:48.619Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/18323/large/arbit.png?1696517814",
+        "small": "https://coin-images.coingecko.com/coins/images/18323/large/arbit.png?1696517814",
+        "large": "https://coin-images.coingecko.com/coins/images/18323/large/arbit.png?1696517814"
+      }
+    },
+    {
+      "id": "whale-2",
+      "symbol": "whale",
+      "name": "Whale",
+      "base_contract": null,
+      "current_price": 0.00050778,
+      "market_cap": 5095375,
+      "total_volume": 997087,
+      "price_change_24h": -20.31975,
+      "last_updated": "2025-02-08T23:36:18.117Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/53638/large/Whale.png?1736958159",
+        "small": "https://coin-images.coingecko.com/coins/images/53638/large/Whale.png?1736958159",
+        "large": "https://coin-images.coingecko.com/coins/images/53638/large/Whale.png?1736958159"
+      }
+    },
+    {
+      "id": "bluefin",
+      "symbol": "blue",
+      "name": "Bluefin",
+      "base_contract": null,
+      "current_price": 0.117348,
+      "market_cap": 18550437,
+      "total_volume": 4499476,
+      "price_change_24h": 4.33753,
+      "last_updated": "2025-02-08T23:37:11.448Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/30883/large/BLUE_200x200.png?1733350278",
+        "small": "https://coin-images.coingecko.com/coins/images/30883/large/BLUE_200x200.png?1733350278",
+        "large": "https://coin-images.coingecko.com/coins/images/30883/large/BLUE_200x200.png?1733350278"
+      }
+    },
+    {
+      "id": "bonkersmemetoken",
+      "symbol": "bonkers",
+      "name": "BonkersMemeToken",
+      "base_contract": null,
+      "current_price": 0.00042743,
+      "market_cap": 417887,
+      "total_volume": 296275,
+      "price_change_24h": 1.54968,
+      "last_updated": "2025-02-08T23:35:24.527Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/53145/large/Bonkers_Logo1000.png?1735378426",
+        "small": "https://coin-images.coingecko.com/coins/images/53145/large/Bonkers_Logo1000.png?1735378426",
+        "large": "https://coin-images.coingecko.com/coins/images/53145/large/Bonkers_Logo1000.png?1735378426"
+      }
+    },
+    {
+      "id": "babycrash",
+      "symbol": "babycrash",
+      "name": "BabyCrash",
+      "base_contract": "0x74ff3cbf86f95fea386f79633d7bc4460d415f34",
+      "current_price": 0.00001267,
+      "market_cap": 0,
+      "total_volume": 194.24,
+      "price_change_24h": -0.57551,
+      "last_updated": "2025-02-08T16:00:42.293Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/38966/large/BABY_CRASH_TPB_200px.png?1727976620",
+        "small": "https://coin-images.coingecko.com/coins/images/38966/large/BABY_CRASH_TPB_200px.png?1727976620",
+        "large": "https://coin-images.coingecko.com/coins/images/38966/large/BABY_CRASH_TPB_200px.png?1727976620"
+      }
+    },
+    {
+      "id": "the-innovation-game",
+      "symbol": "tig",
+      "name": "The Innovation Game",
+      "base_contract": "0x0c03ce270b4826ec62e7dd007f0b716068639f7b",
+      "current_price": 0.678434,
+      "market_cap": 7323408,
+      "total_volume": 104095,
+      "price_change_24h": -6.18557,
+      "last_updated": "2025-02-08T23:37:28.479Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/50669/large/TIG_Logo_200x200.png?1729604604",
+        "small": "https://coin-images.coingecko.com/coins/images/50669/large/TIG_Logo_200x200.png?1729604604",
+        "large": "https://coin-images.coingecko.com/coins/images/50669/large/TIG_Logo_200x200.png?1729604604"
+      }
+    },
+    {
+      "id": "official-trump",
+      "symbol": "trump",
+      "name": "Official Trump",
+      "base_contract": null,
+      "current_price": 17.3,
+      "market_cap": 3461887364,
+      "total_volume": 924670956,
+      "price_change_24h": 4.73279,
+      "last_updated": "2025-02-08T23:36:47.513Z",
+      "image": {
+        "thumb": "https://coin-images.coingecko.com/coins/images/53746/large/trump.png?1737171561",
+        "small": "https://coin-images.coingecko.com/coins/images/53746/large/trump.png?1737171561",
+        "large": "https://coin-images.coingecko.com/coins/images/53746/large/trump.png?1737171561"
+      }
+    }
+  ]
+}

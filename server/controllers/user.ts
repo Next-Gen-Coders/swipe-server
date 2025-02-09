@@ -4,9 +4,11 @@ import {
   ControllerHelper,
   ParameterLessControllerHelper,
 } from "../utils/controllerHelper";
+
 import { SCOPE } from "../utils/enums";
 import * as UserService from "../services/index";
 import * as ZodSchemas from "../db/zodSchemaAndTypes";
+import { z } from "zod";
 
 export const createUserController: RequestHandler = async (req, res) => {
   await ControllerHelper({
@@ -48,6 +50,17 @@ export const getUserByEmailController: RequestHandler = async (req, res) => {
     res,
     logMessage: "Get User by Email",
     serviceMethod: () => UserService.getUserByEmail(email),
+    scope: SCOPE.USER,
+  });
+};
+
+export const getSwipeCardsController: RequestHandler = async (req, res) => {
+  const email = req.body.email;
+
+  await ParameterLessControllerHelper({
+    res,
+    logMessage: "Get Swipe Cards",
+    serviceMethod: () => UserService.getSwipeCards(email),
     scope: SCOPE.USER,
   });
 };
