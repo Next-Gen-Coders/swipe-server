@@ -8,7 +8,6 @@ import {
 import { SCOPE } from "../utils/enums";
 import * as UserService from "../services/index";
 import * as ZodSchemas from "../db/zodSchemaAndTypes";
-import { z } from "zod";
 
 export const createUserController: RequestHandler = async (req, res) => {
   await ControllerHelper({
@@ -64,3 +63,59 @@ export const getSwipeCardsController: RequestHandler = async (req, res) => {
     scope: SCOPE.USER,
   });
 };
+
+export const getAllUserTransactionsController: RequestHandler = async (
+  req,
+  res
+) => {
+  const id = req.params.id;
+
+  await ParameterLessControllerHelper({
+    res,
+    logMessage: "Get Transactions by User ID",
+    serviceMethod: () => UserService.getUserTransactions(id),
+    scope: SCOPE.USER,
+  });
+};
+
+export const getTransactionDetailsController: RequestHandler = async (
+  req,
+  res
+) => {
+  const id = req.params.id;
+
+  await ParameterLessControllerHelper({
+    res,
+    logMessage: "Get Transaction Details",
+    serviceMethod: () => UserService.getTransactionDetails(id),
+    scope: SCOPE.USER,
+  });
+};
+
+
+export const tradeController: RequestHandler = async (req, res) => {
+  await ControllerHelper({
+    res,
+    logMessage: "Trade",
+    serviceMethod: UserService.createTrade,
+    scope: SCOPE.USER,
+    validationSchema: ZodSchemas.tradeSchema,
+    validationData: req.body,
+  });
+};
+
+
+export const settleController: RequestHandler = async (
+  req,
+  res
+) => {
+  const id = req.params.id;
+
+  await ParameterLessControllerHelper({
+    res,
+    logMessage: "Settle",
+    serviceMethod: () => UserService.settleTrade(id),
+    scope: SCOPE.USER,
+  });
+};
+

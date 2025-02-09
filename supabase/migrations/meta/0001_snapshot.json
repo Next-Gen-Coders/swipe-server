@@ -1,6 +1,6 @@
 {
-  "id": "0672009f-57f4-4287-8793-fbfbd9595eec",
-  "prevId": "00000000-0000-0000-0000-000000000000",
+  "id": "361f1f58-a6b0-459b-ae0d-b0870c2904a2",
+  "prevId": "0672009f-57f4-4287-8793-fbfbd9595eec",
   "version": "7",
   "dialect": "postgresql",
   "tables": {
@@ -24,6 +24,12 @@
         "wallet_id": {
           "name": "wallet_id",
           "type": "integer",
+          "primaryKey": false,
+          "notNull": true
+        },
+        "tx_hash": {
+          "name": "tx_hash",
+          "type": "text",
           "primaryKey": false,
           "notNull": true
         },

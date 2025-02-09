@@ -7,6 +7,8 @@ import {
   UserUpdateSchema,
 } from "./schema/user";
 
-export { userInsertSchema, userSelectSchema, userUpdateSchema };
+import { tradeSchema } from "./zod/trade";
+
+export { userInsertSchema, userSelectSchema, userUpdateSchema, tradeSchema };
 
 export type { UserInsertSchema, UserSelectSchema, UserUpdateSchema };
