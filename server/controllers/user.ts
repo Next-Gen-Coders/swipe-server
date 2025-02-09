@@ -92,7 +92,6 @@ export const getTransactionDetailsController: RequestHandler = async (
   });
 };
 
-
 export const tradeController: RequestHandler = async (req, res) => {
   await ControllerHelper({
     res,
@@ -104,11 +103,7 @@ export const tradeController: RequestHandler = async (req, res) => {
   });
 };
 
-
-export const settleController: RequestHandler = async (
-  req,
-  res
-) => {
+export const settleController: RequestHandler = async (req, res) => {
   const id = req.params.id;
 
   await ParameterLessControllerHelper({
@@ -118,4 +113,3 @@ export const settleController: RequestHandler = async (
     scope: SCOPE.USER,
   });
 };
-
