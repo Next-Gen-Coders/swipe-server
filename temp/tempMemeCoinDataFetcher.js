@@ -1,10 +1,13 @@
 const axios = require("axios");
 const fs = require("fs").promises;
 const path = require("path");
+import dotenv from "dotenv";
+
+dotenv.config();
 
 const DATA_DIR = "./data";
 const DATA_FILE = "meme_coins.json";
-const COINGECKO_API_KEY = "CG-QnPGKdtvzprWKJaQBd1knKbs";
+const COINGECKO_API_KEY = process.env.COINGECKO_API_KEY;
 
 // Add logging utility
 const log = {
